@@ -1,0 +1,3571 @@
+accelerate_VERB
+accept_VERB
+accept_VERB money_NOUN
+accept_VERB praise_NOUN
+access_VERB
+accomplish_VERB
+acknowledge_VERB people_NOUN
+act_VERB
+activitie_VERB
+ad_VERB
+add_VERB
+add_VERB ingredient_NOUN
+add_VERB item_NOUN
+add_VERB seasoning_NOUN
+add_VERB spice_NOUN
+add_VERB step_NOUN
+address_VERB
+adjust_VERB
+adjust_VERB hip_NOUN
+adjute_VERB
+admire_VERB
+advance_VERB
+again_VERB
+agasint_VERB
+aggravate_VERB fashion_NOUN
+agin_VERB
+aim_VERB
+aim_VERB dart_NOUN
+air_VERB
+aise_VERB
+align_VERB
+allear_VERB
+allow_VERB
+alright_VERB
+alternate_VERB
+alternate_VERB arm_NOUN
+alternate_VERB direction_NOUN
+alternate_VERB foot_NOUN
+alternate_VERB hand_NOUN
+alternate_VERB hip_NOUN
+alternate_VERB hopping_NOUN
+alternate_VERB jump_NOUN
+alternate_VERB leg_NOUN
+alternate_VERB path_NOUN
+alternate_VERB pattern_NOUN
+alternate_VERB punch_NOUN
+alternate_VERB right_NOUN
+alternate_VERB set_NOUN
+alternate_VERB step_NOUN
+amble_VERB
+an_VERB
+anchor_VERB
+angle_VERB
+angle_VERB back_NOUN
+angle_VERB curve_NOUN
+angle_VERB direction_NOUN
+angle_VERB line_NOUN
+angle_VERB path_NOUN
+angulate_VERB
+animate_VERB
+animate_VERB hand_NOUN
+animate_VERB story_NOUN
+annoy_VERB
+anove_VERB
+ans_VERB shuffle_NOUN
+answer_VERB
+anticlock_VERB
+anticlockwise_VERB
+apologize_VERB
+appear_VERB
+applaud_VERB
+applause_VERB
+apply_VERB
+apppear_VERB
+approach_VERB
+aproache_VERB
+ar_VERB
+arc_VERB
+arc_VERB line_NOUN
+arc_VERB motion_NOUN
+arc_VERB path_NOUN
+arch_VERB
+argue_VERB
+arm_VERB
+arm_VERB curl_NOUN
+arm_VERB roll_NOUN
+arm_VERB stomach_NOUN
+arm_VERB stretch_NOUN
+arm_VERB wrestle_NOUN
+armslike_VERB
+armwrestle_VERB
+around_VERB arm_NOUN
+arraign_VERB thing_NOUN
+arrange_VERB
+arrive_VERB
+ascend_VERB
+ascend_VERB step_NOUN
+ask_VERB
+assess_VERB
+assist_VERB
+assume_VERB
+assume_VERB t_NOUN
+assure_VERB
+atremot_VERB
+attack_VERB
+attemp_VERB
+attempt_VERB
+attract_VERB
+avoid_VERB
+avoid_VERB gap_NOUN
+avoid_VERB object_NOUN
+avoid_VERB obstacle_NOUN
+avoid_VERB pressure_NOUN
+avoid_VERB thing_NOUN
+avoid_VERB water_NOUN
+bacj_VERB
+back_VERB
+backand_VERB
+backgroun_VERB
+background_VERB
+backpeddle_VERB
+backstep_VERB
+backtrack_VERB
+bak_VERB
+bakc_VERB
+bake_VERB
+balance_VERB
+balance_VERB ball_NOUN
+balance_VERB beam_NOUN
+balance_VERB self_NOUN
+balance_VERB side_NOUN
+balance_VERB weight_NOUN
+balence_VERB
+ball_VERB
+ballance_VERB
+ballet_VERB move_NOUN
+band_VERB
+bang_VERB
+bang_VERB something_NOUN
+base_VERB
+base_VERB gait_NOUN
+bash_VERB
+basketball_VERB
+bat_VERB
+bbring_VERB
+be_VERB
+be_VERB arm_NOUN
+bear_VERB
+bear_VERB crawl_NOUN
+bear_VERB weight_NOUN
+beat_VERB
+beckon_VERB
+beckon_VERB gesture_NOUN
+beckon_VERB motion_NOUN
+become_VERB
+bed_VERB
+beer_VERB
+beg_VERB
+beg_VERB manner_NOUN
+begginge_VERB position_NOUN
+begin_VERB
+begin_VERB hop_NOUN
+begin_VERB position_NOUN
+begin_VERB space_NOUN
+begin_VERB stance_NOUN
+begin_VERB walk_NOUN
+behave_VERB
+behind_VERB
+beinge_VERB
+believe_VERB
+ben_VERB
+bench_VERB
+bend_VERB
+bend_VERB arc_NOUN
+bend_VERB arm_NOUN
+bend_VERB body_NOUN
+bend_VERB elbow_NOUN
+bend_VERB floor_NOUN
+bend_VERB foreward_NOUN
+bend_VERB forward_NOUN
+bend_VERB hand_NOUN
+bend_VERB inward_NOUN
+bend_VERB knee_NOUN
+bend_VERB leg_NOUN
+bend_VERB neck_NOUN
+bend_VERB route_NOUN
+bend_VERB town_NOUN
+bendind_VERB
+bent_VERB
+beofre_VERB
+bering_VERB
+bicep_VERB
+bite_VERB
+blance_VERB
+block_VERB
+block_VERB attack_NOUN
+block_VERB light_NOUN
+block_VERB other_NOUN
+block_VERB position_NOUN
+block_VERB time_NOUN
+block_VERB walkway_NOUN
+blow_VERB
+blow_VERB nose_NOUN
+blow_VERB warmth_NOUN
+bob_VERB
+bob_VERB head_NOUN
+bobs_VERB
+body_VERB
+bolt_VERB
+boost_VERB
+bop_VERB
+bore_VERB
+borh_VERB hand_NOUN
+bottle_VERB
+bouce_VERB
+bounce_VERB
+bounce_VERB arm_NOUN
+bounce_VERB motion_NOUN
+bounce_VERB side_NOUN
+bounce_VERB step_NOUN
+bounce_VERB time_NOUN
+boune_VERB
+bow_VERB
+bow_VERB body_NOUN
+bow_VERB forward_NOUN
+bow_VERB head_NOUN
+bow_VERB motion_NOUN
+bow_VERB time_NOUN
+bowl_VERB
+box_VERB
+box_VERB class_NOUN
+box_VERB jab_NOUN
+box_VERB motion_NOUN
+box_VERB move_NOUN
+box_VERB punch_NOUN
+box_VERB stance_NOUN
+box_VERB upercut_NOUN
+brace_VERB
+brace_VERB object_NOUN
+brandish_VERB
+break_VERB
+break_VERB dancing_NOUN
+breakdance_VERB
+breakdance_VERB move_NOUN
+breathe_VERB
+briefcase_VERB
+brign_VERB
+brine_VERB
+bring_VERB
+bring_VERB arm_NOUN
+bring_VERB food_NOUN
+bring_VERB foot_NOUN
+bring_VERB hand_NOUN
+bring_VERB pivot_NOUN
+brinne_VERB
+brishe_VERB
+brush_VERB
+brush_VERB hair_NOUN
+brush_VERB motion_NOUN
+brush_VERB movement_NOUN
+brush_VERB tooth_NOUN
+brush_VERB wipe_NOUN
+buck_VERB
+buck_VERB hip_NOUN
+buckle_VERB
+build_VERB
+build_VERB man_NOUN
+build_VERB momentum_NOUN
+bummpe_VERB motion_NOUN
+bump_VERB
+bunt_VERB
+burn_VERB goal_NOUN
+burst_VERB
+but_VERB
+button_VERB
+cake_VERB
+call_VERB
+call_VERB bicep_NOUN
+call_VERB hopscotch_NOUN
+calll_VERB
+calpe_VERB
+can_VERB
+canoe_VERB
+cant_VERB
+care_VERB
+caress_VERB
+carre_VERB
+carry_VERB
+carry_VERB ball_NOUN
+cartwheel_VERB
+cast_VERB
+cast_VERB motion_NOUN
+casue_VERB
+catch_VERB
+catch_VERB object_NOUN
+catch_VERB one_NOUN
+catch_VERB position_NOUN
+catch_VERB self_NOUN
+catwalk_VERB
+cause_VERB
+celebrate_VERB
+center_VERB
+centralise_VERB
+chacha_VERB dance_NOUN
+chagne_VERB
+change_VERB
+change_VERB direcion_NOUN
+change_VERB direction_NOUN
+change_VERB foot_NOUN
+change_VERB gear_NOUN
+change_VERB left_NOUN
+change_VERB position_NOUN
+change_VERB trajectory_NOUN
+chant_VERB
+charge_VERB
+chase_VERB
+chase_VERB step_NOUN
+chash_VERB
+check_VERB
+check_VERB phone_NOUN
+check_VERB time_NOUN
+check_VERB watch_NOUN
+cheer_VERB
+cheeseburger_VERB
+cherre_VERB
+chest_VERB
+chest_VERB height_NOUN
+chest_VERB level_NOUN
+chestlevel_VERB
+chew_VERB
+chin_VERB
+chin_VERB level_NOUN
+choke_VERB
+chop_VERB
+chop_VERB action_NOUN
+chop_VERB motion_NOUN
+chop_VERB onion_NOUN
+chop_VERB wood_NOUN
+choreograph_VERB dance_NOUN
+chuck_VERB
+chuckle_VERB
+chug_VERB
+circle_VERB
+circle_VERB clockwise_NOUN
+circle_VERB counterclockwise_NOUN
+circulate_VERB
+cla_VERB
+clamp_VERB
+clap_VERB
+clap_VERB hand_NOUN
+clap_VERB motion_NOUN
+clap_VERB pause_NOUN
+clap_VERB person_NOUN
+clap_VERB stop_NOUN
+clappe_VERB
+clapple_VERB
+clapse_VERB
+clash_VERB
+clasp_VERB
+clasp_VERB hand_NOUN
+clasp_VERB palm_NOUN
+claw_VERB
+claw_VERB motion_NOUN
+claw_VERB thing_NOUN
+clean_VERB
+clean_VERB motion_NOUN
+clean_VERB surface_NOUN
+clean_VERB window_NOUN
+clear_VERB
+cleasne_VERB
+clench_VERB
+click_VERB
+climb_VERB
+climb_VERB stair_NOUN
+climb_VERB step_NOUN
+clinch_VERB hand_NOUN
+clockwise_VERB
+clockwise_VERB circle_NOUN
+clockwise_VERB degree_NOUN
+clockwise_VERB flip_NOUN
+clockwise_VERB half_NOUN
+clockwise_VERB kick_NOUN
+clockwise_VERB mothion_NOUN
+clockwise_VERB motion_NOUN
+clockwise_VERB stretch_NOUN
+close_VERB
+close_VERB finger_NOUN
+close_VERB fist_NOUN
+cluck_VERB
+cluck_VERB finger_NOUN
+clutch_VERB
+clutch_VERB side_NOUN
+coach_VERB basketball_NOUN
+cock_VERB
+coil_VERB
+collapse_VERB
+collarbone_VERB height_NOUN
+collect_VERB
+collect_VERB object_NOUN
+collide_VERB
+comb_VERB
+combine_VERB item_NOUN
+come_VERB
+come_VERB form_NOUN
+commit_VERB
+communicate_VERB
+compact_VERB
+compare_VERB
+complete_VERB
+complete_VERB set_NOUN
+complete_VERB step_NOUN
+concentrate_VERB
+conduct_VERB
+confine_VERB
+confine_VERB space_NOUN
+confirm_VERB
+confuse_VERB
+connect_VERB
+connect_VERB hand_NOUN
+consider_VERB
+consume_VERB
+contact_VERB
+contemplate_VERB
+continue_VERB
+continue_VERB backpedalling_NOUN
+continue_VERB crawling_NOUN
+continue_VERB dancing_NOUN
+continue_VERB jogging_NOUN
+continue_VERB marching_NOUN
+continue_VERB motioning_NOUN
+continue_VERB pacing_NOUN
+continue_VERB running_NOUN
+continue_VERB skating_NOUN
+continue_VERB sprinting_NOUN
+continue_VERB standing_NOUN
+continue_VERB walkiing_NOUN
+continue_VERB walking_NOUN
+continue_VERB wave_NOUN
+continute_VERB
+contiue_VERB
+contort_VERB
+contract_VERB
+control_VERB
+control_VERB manner_NOUN
+converse_VERB
+cook_VERB
+cool_VERB
+coordinate_VERB
+coordinate_VERB arm_NOUN
+correct_VERB
+correct_VERB balance_NOUN
+correspond_VERB armpit_NOUN
+correspond_VERB thigh_NOUN
+corsse_VERB hand_NOUN
+cosse_VERB
+couch_VERB
+cough_VERB
+couhche_VERB
+could_VERB
+count_VERB
+count_VERB meter_NOUN
+counter_VERB
+counter_VERB clockwise_NOUN
+counter_VERB counterclockwise_NOUN
+counterclock_VERB
+counterclockwaise_VERB
+counterclockwise_VERB
+counterclockwise_VERB circle_NOUN
+counterclockwise_VERB degree_NOUN
+counterclockwise_VERB half_NOUN
+counterclockwise_VERB mothion_NOUN
+counterclockwise_VERB motion_NOUN
+cove_VERB
+cover_VERB
+cover_VERB face_NOUN
+cover_VERB head_NOUN
+cover_VERB mouth_NOUN
+cover_VERB stomach_NOUN
+covera_VERB
+cower_VERB
+crack_VERB
+cradle_VERB
+cradle_VERB arm_NOUN
+cradle_VERB head_NOUN
+crane_VERB
+crawl_VERB
+crawl_VERB foreword_NOUN
+crawl_VERB forwar_NOUN
+crawl_VERB forword_NOUN
+crawl_VERB foward_NOUN
+crawl_VERB position_NOUN
+crawl_VERB step_NOUN
+creap_VERB
+create_VERB
+create_VERB distance_NOUN
+creep_VERB
+creep_VERB step_NOUN
+cringe_VERB
+criss_VERB
+crisscross_VERB
+crocube_VERB
+croose_VERB leg_NOUN
+crose_VERB
+crose_VERB arm_NOUN
+cross_VERB
+cross_VERB arm_NOUN
+cross_VERB body_NOUN
+cross_VERB finger_NOUN
+cross_VERB foot_NOUN
+cross_VERB hand_NOUN
+cross_VERB leg_NOUN
+cross_VERB midline_NOUN
+cross_VERB pause_NOUN
+cross_VERB step_NOUN
+cross_VERB wrist_NOUN
+crossingover_VERB
+crosslegge_VERB
+crossstep_VERB
+crotch_VERB
+crotche_VERB
+crouch_VERB
+crouch_VERB crouch_NOUN
+crouch_VERB person_NOUN
+crouch_VERB position_NOUN
+crouch_VERB slight_NOUN
+crouch_VERB start_NOUN
+crouch_VERB wave_NOUN
+crow_VERB
+cruche_VERB
+crumble_VERB
+crumple_VERB
+crwale_VERB
+crwoche_VERB
+cry_VERB
+culminate_VERB
+cup_VERB
+cup_VERB hand_NOUN
+cur_VERB
+curl_VERB
+curl_VERB exercise_NOUN
+curl_VERB move_NOUN
+curl_VERB weight_NOUN
+curls_VERB
+curtsey_VERB
+curtsy_VERB
+curve_VERB
+curve_VERB manner_NOUN
+cut_VERB
+cut_VERB object_NOUN
+cut_VERB wood_NOUN
+dab_VERB
+damage_VERB
+dance_VERB
+dance_VERB arm_NOUN
+dance_VERB ballerina_NOUN
+dance_VERB ballet_NOUN
+dance_VERB galley_NOUN
+dance_VERB inplace_NOUN
+dance_VERB move_NOUN
+dance_VERB music_NOUN
+dance_VERB part_NOUN
+dance_VERB position_NOUN
+dance_VERB rumba_NOUN
+dance_VERB salsa_NOUN
+dance_VERB shuffle_NOUN
+dance_VERB side_NOUN
+dance_VERB sometype_NOUN
+dance_VERB spinning_NOUN
+dande_VERB
+dangle_VERB
+dangle_VERB arm_NOUN
+dap_VERB
+dart_VERB
+dash_VERB
+dash_VERB forward_NOUN
+daze_VERB
+deal_VERB
+decelerate_VERB
+decend_VERB
+decide_VERB
+defeat_VERB
+defeat_VERB way_NOUN
+defend_VERB
+define_VERB
+deflate_VERB
+deflect_VERB
+defuse_VERB
+deject_VERB
+deject_VERB half_NOUN
+deliver_VERB
+deliver_VERB air_NOUN
+deliver_VERB pizza_NOUN
+demandside_VERB
+demonstrate_VERB
+demonstrate_VERB range_NOUN
+depict_VERB
+descend_VERB
+descend_VERB stair_NOUN
+describe_VERB
+describe_VERB something_NOUN
+descride_VERB
+determine_VERB
+determine_VERB gate_NOUN
+develop_VERB
+deviate_VERB
+diagonal_VERB
+dial_VERB
+dibble_VERB
+die_VERB
+differ_VERB height_NOUN
+dig_VERB
+dig_VERB motion_NOUN
+dip_VERB
+dip_VERB hand_NOUN
+direct_VERB
+direct_VERB attention_NOUN
+direct_VERB people_NOUN
+direct_VERB traffic_NOUN
+direction_VERB
+disappoint_VERB
+discard_VERB
+discover_VERB
+discuss_VERB
+dismount_VERB
+disorient_VERB
+disperse_VERB
+dispirit_VERB
+displace_VERB
+displace_VERB tilt_NOUN
+display_VERB
+dive_VERB
+do_VERB
+do_VERB accident_NOUN
+do_VERB aerobics_NOUN
+do_VERB air_NOUN
+do_VERB arm_NOUN
+do_VERB ballet_NOUN
+do_VERB basketball_NOUN
+do_VERB bicep_NOUN
+do_VERB body_NOUN
+do_VERB box_NOUN
+do_VERB boxing_NOUN
+do_VERB breast_NOUN
+do_VERB bye_NOUN
+do_VERB cart_NOUN
+do_VERB cartwheel_NOUN
+do_VERB catwalk_NOUN
+do_VERB chicken_NOUN
+do_VERB circle_NOUN
+do_VERB cross_NOUN
+do_VERB crunch_NOUN
+do_VERB curl_NOUN
+do_VERB dance_NOUN
+do_VERB excercise_NOUN
+do_VERB exercise_NOUN
+do_VERB exercize_NOUN
+do_VERB flexes_NOUN
+do_VERB floss_NOUN
+do_VERB football_NOUN
+do_VERB gesture_NOUN
+do_VERB golf_NOUN
+do_VERB half_NOUN
+do_VERB hand_NOUN
+do_VERB jog_NOUN
+do_VERB jump_NOUN
+do_VERB karate_NOUN
+do_VERB knee_NOUN
+do_VERB leg_NOUN
+do_VERB light_NOUN
+do_VERB lunge_NOUN
+do_VERB namaste_NOUN
+do_VERB parkour_NOUN
+do_VERB pizza_NOUN
+do_VERB popping_NOUN
+do_VERB pose_NOUN
+do_VERB push_NOUN
+do_VERB pushup_NOUN
+do_VERB robot_NOUN
+do_VERB rope_NOUN
+do_VERB running_NOUN
+do_VERB salsa_NOUN
+do_VERB seesaw_NOUN
+do_VERB side_NOUN
+do_VERB sign_NOUN
+do_VERB sit_NOUN
+do_VERB situp_NOUN
+do_VERB spin_NOUN
+do_VERB squad_NOUN
+do_VERB squat_NOUN
+do_VERB star_NOUN
+do_VERB starjump_NOUN
+do_VERB step_NOUN
+do_VERB stepover_NOUN
+do_VERB stretch_NOUN
+do_VERB swat_NOUN
+do_VERB taiko_NOUN
+do_VERB toe_NOUN
+do_VERB torsotwist_NOUN
+do_VERB turn_NOUN
+do_VERB valet_NOUN
+do_VERB walking_NOUN
+do_VERB weightlifting_NOUN
+do_VERB wrist_NOUN
+do_VERB yoga_NOUN
+dodge_VERB
+dodge_VERB bullet_NOUN
+dodge_VERB hit_NOUN
+dodge_VERB punch_NOUN
+dodge_VERB thing_NOUN
+doen_VERB
+dog_VERB
+doorbell_VERB
+dose_VERB
+double_VERB
+dow_VERB
+down_VERB
+downturne_VERB
+downwards_VERB movement_NOUN
+drag_VERB
+drag_VERB foot_NOUN
+drag_VERB leg_NOUN
+drag_VERB motion_NOUN
+drag_VERB oneleg_NOUN
+drag_VERB step_NOUN
+drang_VERB
+draw_VERB
+draw_VERB arm_NOUN
+draw_VERB attention_NOUN
+draw_VERB circle_NOUN
+draw_VERB cirlce_NOUN
+dribble_VERB
+dribble_VERB basketball_NOUN
+drift_VERB
+drink_VERB
+drink_VERB coffee_NOUN
+drink_VERB cup_NOUN
+drink_VERB juice_NOUN
+drink_VERB seomthing_NOUN
+drink_VERB water_NOUN
+drip_VERB paint_NOUN
+dripple_VERB
+drive_VERB
+drive_VERB person_NOUN
+droop_VERB
+droop_VERB figure_NOUN
+drop_VERB
+drop_VERB arm_NOUN
+drop_VERB hand_NOUN
+drum_VERB
+drum_VERB gesture_NOUN
+drum_VERB motion_NOUN
+drum_VERB movement_NOUN
+drunken_VERB seeming_NOUN
+dry_VERB
+drys_VERB
+dthen_VERB
+duck_VERB
+duck_VERB position_NOUN
+duckwalke_VERB
+dumbbell_VERB
+dumbell_VERB
+dump_VERB
+dunk_VERB
+duocolore_VERB stick_NOUN
+dust_VERB
+ear_VERB
+ease_VERB
+eat_VERB
+eat_VERB bowl_NOUN
+eat_VERB corn_NOUN
+eat_VERB dinner_NOUN
+eat_VERB finger_NOUN
+eat_VERB food_NOUN
+eat_VERB gesture_NOUN
+eat_VERB motion_NOUN
+eat_VERB sandwich_NOUN
+eat_VERB soemthing_NOUN
+eat_VERB soup_NOUN
+edge_VERB
+eithef_VERB side_NOUN
+elane_VERB
+elbow_VERB
+elbow_VERB bent_NOUN
+elbow_VERB height_NOUN
+elbow_VERB time_NOUN
+elevate_VERB
+else_VERB head_NOUN
+embrace_VERB
+emerge_VERB
+emote_VERB
+empasize_VERB
+emphasize_VERB
+emphasize_VERB hunger_NOUN
+empty_VERB
+empty_VERB item_NOUN
+emulate_VERB
+emulate_VERB jogging_NOUN
+emulate_VERB swimming_NOUN
+enable_VERB
+enact_VERB
+end_VERB
+engage_VERB
+engage_VERB hip_NOUN
+enjoy_VERB
+ensure_VERB
+enter_VERB
+entice_VERB
+entreat_VERB
+erase_VERB
+evade_VERB
+evoke_VERB
+examine_VERB
+examine_VERB someting_NOUN
+exasperaste_VERB gesture_NOUN
+excercise_VERB
+excercise_VERB arm_NOUN
+excerisize_VERB
+excersise_VERB
+excite_VERB
+execise_VERB
+execure_VERB
+execute_VERB
+execute_VERB salsa_NOUN
+exercise_VERB
+exercise_VERB arm_NOUN
+exercise_VERB knee_NOUN
+exercise_VERB leg_NOUN
+exercise_VERB motion_NOUN
+exercise_VERB neck_NOUN
+exercise_VERB talk_NOUN
+exhale_VERB
+exhaust_VERB
+exhibit_VERB
+exit_VERB
+expand_VERB
+expect_VERB
+experience_VERB
+experience_VERB head_NOUN
+explain_VERB
+explain_VERB somethign_NOUN
+expose_VERB
+express_VERB
+express_VERB emotion_NOUN
+extend_VERB
+extend_VERB arm_NOUN
+extend_VERB elbow_NOUN
+extend_VERB forward_NOUN
+extend_VERB hand_NOUN
+extend_VERB leg_NOUN
+extend_VERB outward_NOUN
+extend_VERB punch_NOUN
+extend_VERB runway_NOUN
+extend_VERB shoulder_NOUN
+extene_VERB
+face_VERB
+face_VERB body_NOUN
+face_VERB degree_NOUN
+face_VERB dog_NOUN
+face_VERB east_NOUN
+face_VERB figure_NOUN
+face_VERB front_NOUN
+face_VERB height_NOUN
+face_VERB inward_NOUN
+face_VERB lshape_NOUN
+face_VERB north_NOUN
+face_VERB palm_NOUN
+face_VERB stage_NOUN
+face_VERB throw_NOUN
+face_VERB wall_NOUN
+face_VERB zig_NOUN
+facelevel_VERB
+fail_VERB
+fake_VERB
+fall_VERB
+fall_VERB motion_NOUN
+fall_VERB soldier_NOUN
+fall_VERB step_NOUN
+falter_VERB
+fan_VERB
+fast_VERB
+fast_VERB break_NOUN
+fasten_VERB
+favor_VERB
+favour_VERB movement_NOUN
+feed_VERB
+feel_VERB
+feel_VERB gas_NOUN
+feel_VERB pain_NOUN
+feint_VERB
+fend_VERB
+fiddle_VERB
+fidget_VERB
+fight_VERB
+fight_VERB block_NOUN
+fight_VERB bug_NOUN
+fight_VERB footwork_NOUN
+fight_VERB gesture_NOUN
+fight_VERB move_NOUN
+fight_VERB movement_NOUN
+fight_VERB position_NOUN
+fight_VERB stance_NOUN
+fight_VERB stand_NOUN
+figure_VERB
+file_VERB
+fill_VERB
+film_VERB
+find_VERB
+find_VERB balance_NOUN
+finish_VERB
+finish_VERB dancing_NOUN
+finish_VERB standing_NOUN
+fire_VERB
+fish_VERB
+fist_VERB
+fistbumpe_VERB
+five_VERB time_NOUN
+fix_VERB
+fix_VERB line_NOUN
+fix_VERB spot_NOUN
+fixate_VERB
+flag_VERB
+flail_VERB
+flail_VERB arm_NOUN
+flailing_VERB
+flale_VERB
+flap_VERB
+flap_VERB arm_NOUN
+flap_VERB hand_NOUN
+flap_VERB motion_NOUN
+flap_VERB wing_NOUN
+flapse_VERB arm_NOUN
+flare_VERB
+flatten_VERB
+fleftene_VERB
+flex_VERB
+flex_VERB arm_NOUN
+flex_VERB chest_NOUN
+flex_VERB muscle_NOUN
+flex_VERB squat_NOUN
+flexes_VERB
+flick_VERB
+flick_VERB wrist_NOUN
+flin_VERB
+flinch_VERB
+fling_VERB
+flip_VERB
+flip_VERB counterclockwise_NOUN
+float_VERB
+float_VERB platform_NOUN
+floor_VERB
+floor_VERB level_NOUN
+flop_VERB
+flop_VERB arm_NOUN
+flow_VERB
+flow_VERB arm_NOUN
+fluff_VERB
+flutter_VERB
+fly_VERB
+fly_VERB kick_NOUN
+fly_VERB movement_NOUN
+fly_VERB object_NOUN
+focus_VERB
+fode_VERB arm_NOUN
+fold_VERB
+fold_VERB arm_NOUN
+fold_VERB person_NOUN
+folds_VERB
+follow_VERB
+foot_VERB
+force_VERB
+force_VERB motion_NOUN
+foreground_VERB
+forehead_VERB
+foreward_VERB
+forget_VERB
+form_VERB
+form_VERB air_NOUN
+forward_VERB
+forwards_VERB
+forware_VERB
+frighten_VERB
+fron_VERB
+front_VERB
+front_VERB left_NOUN
+frontleft_VERB
+froth_VERB
+frunne_VERB
+frustrate_VERB
+fullbend_VERB deepknee_NOUN
+fumble_VERB
+gabbe_VERB belly_NOUN
+gain_VERB
+gain_VERB attention_NOUN
+gain_VERB balance_NOUN
+gain_VERB composure_NOUN
+gain_VERB control_NOUN
+gain_VERB height_NOUN
+gain_VERB momentum_NOUN
+gallop_VERB
+garb_VERB
+garbbe_VERB
+gather_VERB
+gather_VERB force_NOUN
+gather_VERB item_NOUN
+gauge_VERB
+gaze_VERB
+gear_VERB
+generate_VERB force_NOUN
+generate_VERB momentum_NOUN
+gesticulate_VERB
+gestrure_VERB
+gesture_VERB
+gesturew_VERB
+get_VERB
+get_VERB item_NOUN
+get_VERB jnto_NOUN
+get_VERB momentum_NOUN
+get_VERB pain_NOUN
+get_VERB push_NOUN
+get_VERB shade_NOUN
+get_VERB up_NOUN
+geture_VERB
+giggle_VERB
+give_VERB
+give_VERB basketball_NOUN
+give_VERB hand_NOUN
+give_VERB hifi_NOUN
+give_VERB instruction_NOUN
+give_VERB path_NOUN
+glance_VERB
+glass_VERB
+glide_VERB
+glide_VERB action_NOUN
+go_VERB
+go_VERB clockwise_NOUN
+go_VERB counterclockwise_NOUN
+go_VERB forword_NOUN
+go_VERB office_NOUN
+go_VERB outward_NOUN
+go_VERB side_NOUN
+golf_VERB
+grab_VERB
+grab_VERB hand_NOUN
+grab_VERB honey_NOUN
+grab_VERB item_NOUN
+grab_VERB motion_NOUN
+grab_VERB object_NOUN
+grab_VERB somethign_NOUN
+grab_VERB something_NOUN
+grab_VERB somethng_NOUN
+grab_VERB thing_NOUN
+grabbedsomethe_VERB
+gran_VERB
+grapevine_VERB
+grapple_VERB
+grasp_VERB
+gravitate_VERB
+grebbae_VERB
+greet_VERB
+greet_VERB people_NOUN
+grip_VERB
+groom_VERB
+ground_VERB
+grove_VERB
+grow_VERB
+guard_VERB
+guard_VERB stance_NOUN
+guide_VERB
+gyrate_VERB
+gyrate_VERB hip_NOUN
+hail_VERB
+halfraise_VERB
+halt_VERB
+hammer_VERB
+hamstre_VERB stretch_NOUN
+hand_VERB
+hand_VERB bicep_NOUN
+hand_VERB clap_NOUN
+hand_VERB hit_NOUN
+hand_VERB move_NOUN
+hand_VERB punch_NOUN
+hand_VERB rest_NOUN
+hand_VERB shake_NOUN
+hand_VERB soemthing_NOUN
+handle_VERB
+handle_VERB bar_NOUN
+handshake_VERB
+handstand_VERB
+hang_VERB
+hang_VERB arm_NOUN
+happen_VERB
+have_VERB
+have_VERB forearm_NOUN
+have_VERB fun_NOUN
+have_VERB hand_NOUN
+have_VERB spasm_NOUN
+have_VERB trouble_NOUN
+head_VERB
+head_VERB height_NOUN
+head_VERB level_NOUN
+head_VERB side_NOUN
+headlevel_VERB
+heal_VERB
+hear_VERB
+height_VERB
+heir_VERB
+help_VERB
+hesitate_VERB
+hide_VERB
+highfive_VERB
+highstep_VERB
+hiis_VERB
+hike_VERB
+hild_VERB
+hilde_VERB
+hind_VERB hand_NOUN
+hinge_VERB
+hip_VERB
+hip_VERB height_NOUN
+hippose_VERB
+hit_VERB
+hit_VERB ball_NOUN
+hit_VERB bongo_NOUN
+hit_VERB button_NOUN
+hit_VERB foot_NOUN
+hit_VERB motion_NOUN
+hit_VERB opponent_NOUN
+hit_VERB throw_NOUN
+hit_VERB wth_NOUN
+hobble_VERB
+hoist_VERB
+hoke_VERB
+hol_VERB
+hold_VERB
+hold_VERB arm_NOUN
+hold_VERB backpack_NOUN
+hold_VERB balance_NOUN
+hold_VERB binocular_NOUN
+hold_VERB chest_NOUN
+hold_VERB chestheight_NOUN
+hold_VERB dumbbell_NOUN
+hold_VERB exercise_NOUN
+hold_VERB face_NOUN
+hold_VERB food_NOUN
+hold_VERB hand_NOUN
+hold_VERB handlebar_NOUN
+hold_VERB handrail_NOUN
+hold_VERB head_NOUN
+hold_VERB item_NOUN
+hold_VERB knee_NOUN
+hold_VERB low_NOUN
+hold_VERB medicine_NOUN
+hold_VERB microphone_NOUN
+hold_VERB motion_NOUN
+hold_VERB object_NOUN
+hold_VERB overhead_NOUN
+hold_VERB pose_NOUN
+hold_VERB position_NOUN
+hold_VERB rail_NOUN
+hold_VERB roght_NOUN
+hold_VERB screen_NOUN
+hold_VERB shoulder_NOUN
+hold_VERB something_NOUN
+hold_VERB stability_NOUN
+hold_VERB steering_NOUN
+hold_VERB stuff_NOUN
+hold_VERB support_NOUN
+hold_VERB table_NOUN
+hold_VERB top_NOUN
+hold_VERB weight_NOUN
+holdinf_VERB
+holding_VERB
+holdoe_VERB
+hole_VERB
+holler_VERB
+honk_VERB
+hook_VERB
+hoover_VERB
+hop_VERB
+hop_VERB front_NOUN
+hop_VERB hop_NOUN
+hop_VERB side_NOUN
+hop_VERB time_NOUN
+hope_VERB
+hover_VERB
+huddle_VERB
+hug_VERB
+hulk_VERB
+hunce_VERB
+hunch_VERB
+hunch_VERB back_NOUN
+hunch_VERB figure_NOUN
+hunch_VERB person_NOUN
+hurls_VERB
+hurry_VERB
+hurt_VERB
+hurt_VERB arm_NOUN
+hustle_VERB
+hype_VERB
+hyperextend_VERB
+iceskate_VERB
+idle_VERB
+ike_VERB
+illuminate_VERB
+illustrate_VERB
+imitatate_VERB
+imitate_VERB
+imitate_VERB cooking_NOUN
+imitate_VERB flying_NOUN
+imitate_VERB movement_NOUN
+imitate_VERB water_NOUN
+immitate_VERB
+impair_VERB
+impersonate_VERB
+imply_VERB
+impose_VERB
+incline_VERB
+include_VERB
+include_VERB punch_NOUN
+incorporate_VERB
+increase_VERB
+increase_VERB intensity_NOUN
+increase_VERB pace_NOUN
+increase_VERB speed_NOUN
+indicate_VERB
+indicate_VERB jogging_NOUN
+induce_VERB
+inebriate_VERB
+infront_VERB
+initiate_VERB
+injure_VERB
+injure_VERB person_NOUN
+inposition_VERB
+inspect_VERB
+instruct_VERB student_NOUN
+int_VERB
+intake_VERB content_NOUN
+integrate_VERB
+interact_VERB
+interchange_VERB
+interconnect_VERB
+interlace_VERB
+interlace_VERB finger_NOUN
+interlock_VERB
+interlock_VERB hand_NOUN
+intertwine_VERB
+intimidate_VERB angle_NOUN
+intimidate_VERB stance_NOUN
+intimidate_VERB step_NOUN
+intoxicate_VERB
+intp_VERB
+invert_VERB v_NOUN
+involve_VERB
+iron_VERB
+iswinge_VERB
+itch_VERB
+item_VERB
+iwht_VERB
+jab_VERB
+jab_VERB motion_NOUN
+jab_VERB outward_NOUN
+jab_VERB punch_NOUN
+jam_VERB
+jaunt_VERB
+jerk_VERB
+jerk_VERB motion_NOUN
+jerk_VERB side_NOUN
+jig_VERB
+jiggle_VERB
+job_VERB
+jog_VERB
+jog_VERB clockwise_NOUN
+jog_VERB counter_NOUN
+jog_VERB counterclockwise_NOUN
+jog_VERB forward_NOUN
+jog_VERB half_NOUN
+jog_VERB hopping_NOUN
+jog_VERB pattern_NOUN
+jog_VERB right_NOUN
+jog_VERB run_NOUN
+jog_VERB side_NOUN
+jog_VERB step_NOUN
+jog_VERB stick_NOUN
+joggin_VERB
+join_VERB
+join_VERB hand_NOUN
+joke_VERB backandforth_NOUN
+jolt_VERB
+jostle_VERB
+joust_VERB
+juggle_VERB
+juke_VERB
+jumoe_VERB
+jump_VERB
+jump_VERB arm_NOUN
+jump_VERB clockwise_NOUN
+jump_VERB counterclockwise_NOUN
+jump_VERB couple_NOUN
+jump_VERB degree_NOUN
+jump_VERB foreward_NOUN
+jump_VERB forward_NOUN
+jump_VERB hop_NOUN
+jump_VERB jack_NOUN
+jump_VERB jump_NOUN
+jump_VERB kick_NOUN
+jump_VERB left_NOUN
+jump_VERB leg_NOUN
+jump_VERB outward_NOUN
+jump_VERB rope_NOUN
+jump_VERB side_NOUN
+jump_VERB sideway_NOUN
+jump_VERB spin_NOUN
+jump_VERB star_NOUN
+jump_VERB step_NOUN
+jump_VERB time_NOUN
+jumprope_VERB
+jumrope_VERB
+junpe_VERB jack_NOUN
+jut_VERB
+kaiwa_VERB
+karate_VERB
+keep_VERB
+keep_VERB arm_NOUN
+keep_VERB balance_NOUN
+keep_VERB body_NOUN
+keep_VERB dribble_NOUN
+keep_VERB hand_NOUN
+keep_VERB knee_NOUN
+keep_VERB leg_NOUN
+keep_VERB pose_NOUN
+keep_VERB posture_NOUN
+keep_VERB walking_NOUN
+keep_VERB water_NOUN
+kick_VERB
+kick_VERB air_NOUN
+kick_VERB arm_NOUN
+kick_VERB ball_NOUN
+kick_VERB box_NOUN
+kick_VERB dirt_NOUN
+kick_VERB foot_NOUN
+kick_VERB forward_NOUN
+kick_VERB heel_NOUN
+kick_VERB leg_NOUN
+kick_VERB motion_NOUN
+kick_VERB soccer_NOUN
+kick_VERB step_NOUN
+kickboxe_VERB
+kickboxe_VERB style_NOUN
+kiss_VERB
+knead_VERB dough_NOUN
+kneal_VERB position_NOUN
+knee_VERB
+knee_VERB move_NOUN
+knee_VERB up_NOUN
+kneee_VERB
+kneel_VERB
+kneel_VERB figure_NOUN
+kneel_VERB person_NOUN
+kneel_VERB position_NOUN
+kneel_VERB postion_NOUN
+kneel_VERB wave_NOUN
+knell_VERB
+knelt_VERB
+knnell_VERB
+knob_VERB
+knock_VERB
+knock_VERB motion_NOUN
+knod_VERB
+know_VERB
+know_VERB gesture_NOUN
+kove_VERB
+lace_VERB
+lace_VERB finger_NOUN
+land_VERB
+lap_VERB
+lash_VERB
+lather_VERB
+laugh_VERB
+laugh_VERB alot_NOUN
+launch_VERB
+lay_VERB
+lay_VERB face_NOUN
+lay_VERB hand_NOUN
+lay_VERB position_NOUN
+lead_VERB
+lead_VERB body_NOUN
+lead_VERB front_NOUN
+lean_VERB
+lean_VERB arm_NOUN
+lean_VERB bow_NOUN
+lean_VERB clo_NOUN
+lean_VERB forward_NOUN
+lean_VERB position_NOUN
+lean_VERB right_NOUN
+lean_VERB side_NOUN
+lean_VERB sideway_NOUN
+lean_VERB stretch_NOUN
+leand_VERB
+leanedsomethe_VERB
+leap_VERB
+leap_VERB counterclockwise_NOUN
+leap_VERB time_NOUN
+learn_VERB
+leave_VERB
+leep_VERB
+left_VERB
+left_VERB amr_NOUN
+left_VERB angle_NOUN
+left_VERB animation_NOUN
+left_VERB ankle_NOUN
+left_VERB arm_NOUN
+left_VERB atm_NOUN
+left_VERB bend_NOUN
+left_VERB bicep_NOUN
+left_VERB bow_NOUN
+left_VERB circle_NOUN
+left_VERB counter_NOUN
+left_VERB degree_NOUN
+left_VERB degress_NOUN
+left_VERB direction_NOUN
+left_VERB drop_NOUN
+left_VERB ear_NOUN
+left_VERB elbow_NOUN
+left_VERB ending_NOUN
+left_VERB exercise_NOUN
+left_VERB fist_NOUN
+left_VERB foot_NOUN
+left_VERB forearm_NOUN
+left_VERB grab_NOUN
+left_VERB hand_NOUN
+left_VERB handrail_NOUN
+left_VERB hip_NOUN
+left_VERB hook_NOUN
+left_VERB infront_NOUN
+left_VERB jab_NOUN
+left_VERB jogging_NOUN
+left_VERB kick_NOUN
+left_VERB knee_NOUN
+left_VERB leg_NOUN
+left_VERB midair_NOUN
+left_VERB motion_NOUN
+left_VERB move_NOUN
+left_VERB palm_NOUN
+left_VERB part_NOUN
+left_VERB pause_NOUN
+left_VERB pivot_NOUN
+left_VERB punch_NOUN
+left_VERB rail_NOUN
+left_VERB shoe_NOUN
+left_VERB shoulder_NOUN
+left_VERB shrug_NOUN
+left_VERB shuffle_NOUN
+left_VERB side_NOUN
+left_VERB sit_NOUN
+left_VERB size_NOUN
+left_VERB spin_NOUN
+left_VERB squat_NOUN
+left_VERB stand_NOUN
+left_VERB step_NOUN
+left_VERB stop_NOUN
+left_VERB swerving_NOUN
+left_VERB thigh_NOUN
+left_VERB thrn_NOUN
+left_VERB time_NOUN
+left_VERB top_NOUN
+left_VERB turn_NOUN
+left_VERB twist_NOUN
+left_VERB uppercut_NOUN
+left_VERB walk_NOUN
+left_VERB way_NOUN
+left_VERB wrist_NOUN
+left_VERB zig_NOUN
+lefthande_VERB
+leftlegge_VERB frontkick_NOUN
+leftward_VERB
+leftwhilst_VERB
+leg_VERB
+leg_VERB twitch_NOUN
+legge_VERB
+len_VERB
+lesb_VERB
+let_VERB
+let_VERB arm_NOUN
+let_VERB hand_NOUN
+level_VERB
+lick_VERB
+lie_VERB
+lie_VERB face_NOUN
+lie_VERB prostrate_NOUN
+lien_VERB
+life_VERB
+lift_VERB
+lift_VERB action_NOUN
+lift_VERB arm_NOUN
+lift_VERB barbell_NOUN
+lift_VERB dumbbell_NOUN
+lift_VERB dumbblell_NOUN
+lift_VERB dumbell_NOUN
+lift_VERB dumble_NOUN
+lift_VERB dunbell_NOUN
+lift_VERB exercise_NOUN
+lift_VERB food_NOUN
+lift_VERB foot_NOUN
+lift_VERB habd_NOUN
+lift_VERB hand_NOUN
+lift_VERB item_NOUN
+lift_VERB leg_NOUN
+lift_VERB motion_NOUN
+lift_VERB object_NOUN
+lift_VERB outward_NOUN
+lift_VERB phone_NOUN
+lift_VERB position_NOUN
+lift_VERB spin_NOUN
+lift_VERB thing_NOUN
+lift_VERB weight_NOUN
+liftig_VERB
+light_VERB
+light_VERB punch_NOUN
+light_VERB weight_NOUN
+like_VERB
+limb_VERB
+limber_VERB
+limp_VERB
+line_VERB
+link_VERB swimming_NOUN
+lioe_VERB
+list_VERB
+listen_VERB
+lite_VERB hand_NOUN
+ln_VERB
+load_VERB
+loae_VERB
+locate_VERB
+lock_VERB
+lock_VERB finger_NOUN
+loft_VERB
+look_VERB
+look_VERB person_NOUN
+look_VERB shuffle_NOUN
+look_VERB side_NOUN
+look_VERB stance_NOUN
+look_VERB symbol_NOUN
+loop_VERB
+loose_VERB
+loosen_VERB
+loosen_VERB stress_NOUN
+lose_VERB
+lose_VERB balance_NOUN
+lose_VERB footing_NOUN
+lose_VERB grip_NOUN
+losse_VERB
+lossen_VERB
+lounge_VERB
+lounge_VERB person_NOUN
+love_VERB
+love_VERB one_NOUN
+low_VERB
+low_VERB arm_NOUN
+lower_VERB
+lower_VERB arm_NOUN
+lower_VERB body_NOUN
+lower_VERB hand_NOUN
+lower_VERB item_NOUN
+lower_VERB object_NOUN
+lower_VERB right_NOUN
+luft_VERB
+lumber_VERB
+lumber_VERB step_NOUN
+lunch_VERB
+lunge_VERB
+lunge_VERB karate_NOUN
+lunge_VERB kick_NOUN
+lunge_VERB manner_NOUN
+lunge_VERB side_NOUN
+lurk_VERB
+maintae_VERB
+maintain_VERB
+maintain_VERB balance_NOUN
+maintain_VERB composure_NOUN
+maintain_VERB location_NOUN
+maintane_VERB
+make_VERB
+make_VERB action_NOUN
+make_VERB animal_NOUN
+make_VERB arm_NOUN
+make_VERB attention_NOUN
+make_VERB baseball_NOUN
+make_VERB basketball_NOUN
+make_VERB body_NOUN
+make_VERB bowing_NOUN
+make_VERB brushing_NOUN
+make_VERB butterfly_NOUN
+make_VERB catlike_NOUN
+make_VERB chicken_NOUN
+make_VERB circle_NOUN
+make_VERB clockwise_NOUN
+make_VERB counterclockwise_NOUN
+make_VERB curling_NOUN
+make_VERB dance_NOUN
+make_VERB degree_NOUN
+make_VERB dough_NOUN
+make_VERB fighting_NOUN
+make_VERB gesture_NOUN
+make_VERB half_NOUN
+make_VERB hand_NOUN
+make_VERB jump_NOUN
+make_VERB karate_NOUN
+make_VERB kneading_NOUN
+make_VERB loop_NOUN
+make_VERB monkey_NOUN
+make_VERB motion_NOUN
+make_VERB motorcycle_NOUN
+make_VERB move_NOUN
+make_VERB movement_NOUN
+make_VERB noise_NOUN
+make_VERB oval_NOUN
+make_VERB pitching_NOUN
+make_VERB pose_NOUN
+make_VERB punching_NOUN
+make_VERB referee_NOUN
+make_VERB rolling_NOUN
+make_VERB rowing_NOUN
+make_VERB scooping_NOUN
+make_VERB scratching_NOUN
+make_VERB sidestep_NOUN
+make_VERB signal_NOUN
+make_VERB sode_NOUN
+make_VERB step_NOUN
+make_VERB stirring_NOUN
+make_VERB stroking_NOUN
+make_VERB strumming_NOUN
+make_VERB swimming_NOUN
+make_VERB swing_NOUN
+make_VERB swinging_NOUN
+make_VERB tennis_NOUN
+make_VERB turn_NOUN
+make_VERB twisting_NOUN
+make_VERB uppercut_NOUN
+make_VERB walk_NOUN
+make_VERB washing_NOUN
+make_VERB wave_NOUN
+make_VERB wing_NOUN
+malipulate_VERB
+man_VERB
+manage_VERB
+maneuvre_VERB
+manipulate_VERB
+manipulate_VERB object_NOUN
+manipulate_VERB paper_NOUN
+march_VERB
+march_VERB forward_NOUN
+march_VERB pace_NOUN
+march_VERB step_NOUN
+mark_VERB
+massage_VERB
+match_VERB
+may_VERB
+mean_VERB
+meander_VERB
+measure_VERB
+measure_VERB jump_NOUN
+measure_VERB pace_NOUN
+meet_VERB
+memorize_VERB series_NOUN
+mess_VERB
+middle_VERB
+mime_VERB
+mimic_VERB
+mimic_VERB felletio_NOUN
+mimic_VERB fishing_NOUN
+mimick_VERB
+mimick_VERB animal_NOUN
+mind_VERB
+mirror_VERB
+miskicke_VERB
+miss_VERB
+miss_VERB tripping_NOUN
+mix_VERB
+mix_VERB batter_NOUN
+mix_VERB bowl_NOUN
+mix_VERB dough_NOUN
+mix_VERB egg_NOUN
+mix_VERB food_NOUN
+mix_VERB thing_NOUN
+mob_VERB arm_NOUN
+mock_VERB
+model_VERB
+moe_VERB
+moonwalk_VERB
+mop_VERB
+mope_VERB
+mosey_VERB
+mosh_VERB
+motion_VERB
+motion_VERB hand_NOUN
+mount_VERB
+mouth_VERB
+mouve_VERB
+move_VERB
+move_VERB anticlockwise_NOUN
+move_VERB arm_NOUN
+move_VERB backandforth_NOUN
+move_VERB body_NOUN
+move_VERB circle_NOUN
+move_VERB clockwise_NOUN
+move_VERB counterclockwise_NOUN
+move_VERB dancing_NOUN
+move_VERB degree_NOUN
+move_VERB ear_NOUN
+move_VERB elbow_NOUN
+move_VERB face_NOUN
+move_VERB foot_NOUN
+move_VERB forearm_NOUN
+move_VERB foreward_NOUN
+move_VERB forwarda_NOUN
+move_VERB foward_NOUN
+move_VERB hand_NOUN
+move_VERB head_NOUN
+move_VERB hinge_NOUN
+move_VERB hip_NOUN
+move_VERB item_NOUN
+move_VERB knee_NOUN
+move_VERB knife_NOUN
+move_VERB leg_NOUN
+move_VERB lot_NOUN
+move_VERB neck_NOUN
+move_VERB object_NOUN
+move_VERB shoulder_NOUN
+move_VERB side_NOUN
+move_VERB size_NOUN
+move_VERB step_NOUN
+move_VERB strategy_NOUN
+move_VERB t_NOUN
+move_VERB thair_NOUN
+move_VERB thing_NOUN
+move_VERB torso_NOUN
+move_VERB wrist_NOUN
+movea_VERB
+movin_VERB
+movng_VERB arm_NOUN
+mumble_VERB
+must_VERB
+mve_VERB
+nail_VERB
+name_VERB
+navigate_VERB
+need_VERB
+need_VERB consumption_NOUN
+need_VERB support_NOUN
+nod_VERB
+notice_VERB
+nozzle_VERB
+nudge_VERB
+number_VERB
+object_VERB
+observe_VERB
+obstruct_VERB
+obtain_VERB
+offer_VERB
+oick_VERB
+olace_VERB
+oneside_VERB
+onn_VERB
+op_VERB
+open_VERB
+open_VERB arm_NOUN
+open_VERB bottle_NOUN
+open_VERB container_NOUN
+open_VERB door_NOUN
+open_VERB drawer_NOUN
+open_VERB drink_NOUN
+open_VERB shelf_NOUN
+open_VERB umbrella_NOUN
+operate_VERB
+oppose_VERB
+oppose_VERB circle_NOUN
+oppose_VERB direction_NOUN
+oppose_VERB elbow_NOUN
+order_VERB
+organize_VERB
+organize_VERB item_NOUN
+organize_VERB object_NOUN
+oscillate_VERB
+ot_VERB
+out_VERB
+outline_VERB
+outreache_VERB
+outreache_VERB hand_NOUN
+outsretche_VERB
+outsteretche_VERB
+outstreche_VERB
+outstreche_VERB arm_NOUN
+outstreeche_VERB
+outstretche_VERB
+outstretche_VERB arm_NOUN
+outstretche_VERB hand_NOUN
+outstretche_VERB lean_NOUN
+outstretche_VERB shoulder_NOUN
+outturne_VERB
+outward_VERB
+ove_VERB
+overhand_VERB
+overhande_VERB
+overhead_VERB
+overlap_VERB
+overlook_VERB
+ovr_VERB
+own_VERB
+pace_VERB
+pace_VERB side_NOUN
+pack_VERB
+pack_VERB food_NOUN
+package_VERB food_NOUN
+paddle_VERB
+paddle_VERB motion_NOUN
+paddle_VERB movement_NOUN
+page_VERB
+pain_VERB
+paint_VERB
+palce_VERB arm_NOUN
+palm_VERB
+pan_VERB
+pant_VERB
+pantamime_VERB
+pantomime_VERB
+pantomimimng_VERB
+paraaleel_VERB
+parallel_VERB
+park_VERB
+parrallel_VERB
+part_VERB
+participate_VERB
+pase_VERB
+pass_VERB
+pass_VERB object_NOUN
+past_VERB
+paste_VERB
+pat_VERB
+pat_VERB motion_NOUN
+pause_VERB
+pause_VERB threequarter_NOUN
+paw_VERB
+pay_VERB
+pay_VERB respect_NOUN
+peck_VERB
+peck_VERB motion_NOUN
+pedal_VERB
+peddle_VERB
+peek_VERB
+peel_VERB
+peer_VERB
+per_VERB
+perced_VERB
+perfome_VERB
+perform_VERB
+perform_VERB arm_NOUN
+perform_VERB ballet_NOUN
+perform_VERB bicep_NOUN
+perform_VERB biceps_NOUN
+perform_VERB bodyweight_NOUN
+perform_VERB burpee_NOUN
+perform_VERB calf_NOUN
+perform_VERB cartwheel_NOUN
+perform_VERB dance_NOUN
+perform_VERB golf_NOUN
+perform_VERB hand_NOUN
+perform_VERB jump_NOUN
+perform_VERB lunge_NOUN
+perform_VERB martial_NOUN
+perform_VERB shoulder_NOUN
+perform_VERB side_NOUN
+perform_VERB squat_NOUN
+perform_VERB star_NOUN
+perform_VERB starjump_NOUN
+perform_VERB technique_NOUN
+perform_VERB yoga_NOUN
+perforne_VERB
+person_VERB side_NOUN
+pet_VERB
+pet_VERB motion_NOUN
+pht_VERB
+pic_VERB
+picj_VERB
+pick_VERB
+pick_VERB foot_NOUN
+pick_VERB item_NOUN
+pick_VERB object_NOUN
+pick_VERB pick_NOUN
+pick_VERB thing_NOUN
+picke_VERB
+pickup_VERB
+pike_VERB
+pinwheele_VERB
+pisition_VERB
+pit_VERB
+pitch_VERB
+pivot_VERB
+pivot_VERB body_NOUN
+pivot_VERB catch_NOUN
+pivot_VERB degree_NOUN
+pivot_VERB step_NOUN
+place_VERB
+place_VERB arm_NOUN
+place_VERB distance_NOUN
+place_VERB glass_NOUN
+place_VERB hand_NOUN
+place_VERB item_NOUN
+place_VERB object_NOUN
+place_VERB thing_NOUN
+plan_VERB violin_NOUN
+plank_VERB
+plant_VERB
+plant_VERB foot_NOUN
+plant_VERB gather_NOUN
+plant_VERB seed_NOUN
+plant_VERB vegetable_NOUN
+play_VERB
+play_VERB baseball_NOUN
+play_VERB basketball_NOUN
+play_VERB bongo_NOUN
+play_VERB catch_NOUN
+play_VERB defense_NOUN
+play_VERB drum_NOUN
+play_VERB football_NOUN
+play_VERB golf_NOUN
+play_VERB guitar_NOUN
+play_VERB hopscotch_NOUN
+play_VERB instrument_NOUN
+play_VERB leapfrog_NOUN
+play_VERB motion_NOUN
+play_VERB music_NOUN
+play_VERB peekaboo_NOUN
+play_VERB ping_NOUN
+play_VERB pitch_NOUN
+play_VERB ring_NOUN
+play_VERB soccer_NOUN
+play_VERB string_NOUN
+play_VERB table_NOUN
+play_VERB tennin_NOUN
+play_VERB tennis_NOUN
+play_VERB toss_NOUN
+play_VERB tug_NOUN
+play_VERB violin_NOUN
+play_VERB volleyball_NOUN
+plead_VERB
+poceed_VERB
+point_VERB
+point_VERB inward_NOUN
+point_VERB outward_NOUN
+poise_VERB
+poke_VERB
+poke_VERB motion_NOUN
+polish_VERB
+ponder_VERB
+poor_VERB
+poore_VERB water_NOUN
+pop_VERB
+pose_VERB
+pose_VERB position_NOUN
+position_VERB
+position_VERB body_NOUN
+position_VERB hand_NOUN
+post_VERB chest_NOUN
+post_VERB victory_NOUN
+posture_VERB
+pounce_VERB
+pound_VERB
+pound_VERB motion_NOUN
+pour_VERB
+pour_VERB action_NOUN
+pour_VERB motion_NOUN
+pour_VERB one_NOUN
+pour_VERB thing_NOUN
+practe_VERB
+practe_VERB defense_NOUN
+practice_VERB
+practice_VERB boxing_NOUN
+practice_VERB dancing_NOUN
+practice_VERB fighting_NOUN
+practice_VERB football_NOUN
+practice_VERB footwork_NOUN
+practice_VERB jab_NOUN
+practice_VERB juggling_NOUN
+practice_VERB karate_NOUN
+practice_VERB punch_NOUN
+practice_VERB punching_NOUN
+practice_VERB tennis_NOUN
+practice_VERB throwing_NOUN
+practise_VERB
+praise_VERB
+prance_VERB
+pray_VERB
+pray_VERB pose_NOUN
+pray_VERB stance_NOUN
+preach_VERB
+preceed_VERB
+preform_VERB
+preform_VERB sit_NOUN
+prepare_VERB
+prepare_VERB dough_NOUN
+prepare_VERB food_NOUN
+preppe_VERB
+present_VERB
+press_VERB
+press_VERB accelerator_NOUN
+press_VERB button_NOUN
+press_VERB elevator_NOUN
+press_VERB finger_NOUN
+press_VERB ground_NOUN
+press_VERB thing_NOUN
+pretede_VERB
+pretend_VERB
+pretend_VERB playing_NOUN
+proceed_VERB
+proceeed_VERB
+prod_VERB
+produce_VERB
+prompt_VERB
+pronate_VERB position_NOUN
+prop_VERB
+propel_VERB
+protect_VERB
+protect_VERB face_NOUN
+provide_VERB comfort_NOUN
+prune_VERB
+pry_VERB
+psinne_VERB
+pul_VERB
+pull_VERB
+pull_VERB arm_NOUN
+pull_VERB clothe_NOUN
+pull_VERB counter_NOUN
+pull_VERB leg_NOUN
+pull_VERB motion_NOUN
+pull_VERB object_NOUN
+pulse_VERB
+pump_VERB
+pump_VERB dumbbell_NOUN
+punch_VERB
+punch_VERB arm_NOUN
+punch_VERB move_NOUN
+punch_VERB sound_NOUN
+punch_VERB time_NOUN
+punish_VERB
+punt_VERB motion_NOUN
+pur_VERB
+purr_VERB
+puse_VERB
+push_VERB
+push_VERB arm_NOUN
+push_VERB button_NOUN
+push_VERB hand_NOUN
+push_VERB motion_NOUN
+push_VERB object_NOUN
+push_VERB off_NOUN
+push_VERB people_NOUN
+push_VERB phone_NOUN
+push_VERB recover_NOUN
+push_VERB recovery_NOUN
+push_VERB up_NOUN
+pushign_VERB
+pushse_VERB
+pust_VERB
+put_VERB
+put_VERB arm_NOUN
+put_VERB article_NOUN
+put_VERB bait_NOUN
+put_VERB binocular_NOUN
+put_VERB bot_NOUN
+put_VERB cup_NOUN
+put_VERB fist_NOUN
+put_VERB foot_NOUN
+put_VERB foward_NOUN
+put_VERB hand_NOUN
+put_VERB head_NOUN
+put_VERB hit_NOUN
+put_VERB instrument_NOUN
+put_VERB item_NOUN
+put_VERB leg_NOUN
+put_VERB motion_NOUN
+put_VERB object_NOUN
+put_VERB phone_NOUN
+put_VERB pick_NOUN
+put_VERB shampoo_NOUN
+put_VERB slipper_NOUN
+put_VERB thing_NOUN
+put_VERB throw_NOUN
+put_VERB top_NOUN
+put_VERB trash_NOUN
+put_VERB weight_NOUN
+putt_VERB
+quarrel_VERB
+quarter_VERB pivot_NOUN
+question_VERB
+question_VERB shoulder_NOUN
+quicken_VERB
+quicken_VERB step_NOUN
+race_VERB
+rag_VERB
+rail_VERB
+raise_VERB
+raise_VERB arm_NOUN
+raise_VERB both_NOUN
+raise_VERB chest_NOUN
+raise_VERB food_NOUN
+raise_VERB foot_NOUN
+raise_VERB hand_NOUN
+raise_VERB head_NOUN
+raise_VERB heel_NOUN
+raise_VERB knee_NOUN
+raise_VERB leg_NOUN
+raise_VERB level_NOUN
+raise_VERB move_NOUN
+raise_VERB person_NOUN
+raise_VERB platform_NOUN
+raise_VERB punch_NOUN
+raise_VERB shoulder_NOUN
+raise_VERB side_NOUN
+raise_VERB squat_NOUN
+raise_VERB start_NOUN
+raise_VERB step_NOUN
+raise_VERB throw_NOUN
+raise_VERB turn_NOUN
+raise_VERB walk_NOUN
+raise_VERB wave_NOUN
+raisie_VERB
+rake_VERB
+rake_VERB leave_NOUN
+rake_VERB step_NOUN
+ram_VERB
+ramble_VERB
+rase_VERB
+rasie_VERB
+reach_VERB
+reach_VERB arm_NOUN
+reach_VERB downward_NOUN
+reach_VERB form_NOUN
+reach_VERB hand_NOUN
+reach_VERB motion_NOUN
+reach_VERB outward_NOUN
+reach_VERB right_NOUN
+reach_VERB skyward_NOUN
+reach_VERB starting_NOUN
+react_VERB
+read_VERB
+readjust_VERB
+readjust_VERB position_NOUN
+ready_VERB
+ready_VERB foot_NOUN
+reaise_VERB
+realign_VERB
+realize_VERB
+rear_VERB
+rearrange_VERB
+reaside_VERB
+rebalance_VERB self_NOUN
+rebend_VERB
+rebound_VERB
+recap_VERB
+receive_VERB
+receive_VERB money_NOUN
+recenter_VERB
+recite_VERB
+recline_VERB
+recline_VERB position_NOUN
+recognize_VERB
+recoil_VERB
+recover_VERB
+recover_VERB balance_NOUN
+reel_VERB
+reel_VERB motion_NOUN
+reenter_VERB
+regain_VERB
+regain_VERB balance_NOUN
+regain_VERB composure_NOUN
+regain_VERB footing_NOUN
+regain_VERB orientation_NOUN
+regain_VERB posture_NOUN
+regain_VERB stance_NOUN
+reinact_VERB
+relax_VERB
+relax_VERB arm_NOUN
+relax_VERB elbow_NOUN
+release_VERB
+release_VERB hand_NOUN
+release_VERB item_NOUN
+relieve_VERB pain_NOUN
+relieve_VERB pressure_NOUN
+relieve_VERB stiffness_NOUN
+relocate_VERB
+remain_VERB
+remain_VERB seat_NOUN
+remain_VERB standing_NOUN
+remain_VERB step_NOUN
+remove_VERB
+remove_VERB clothing_NOUN
+remove_VERB lid_NOUN
+reopen_VERB
+repate_VERB
+repate_VERB right_NOUN
+repeare_VERB
+repeat_VERB
+repeat_VERB leg_NOUN
+repeat_VERB motion_NOUN
+repeat_VERB movement_NOUN
+repeat_VERB process_NOUN
+repeat_VERB punch_NOUN
+repeat_VERB punching_NOUN
+repeat_VERB time_NOUN
+repetive_VERB
+repetlat_VERB
+repite_VERB
+replace_VERB
+replenish_VERB shelf_NOUN
+reposition_VERB
+reposition_VERB object_NOUN
+represent_VERB
+represent_VERB foul_NOUN
+require_VERB
+reraise_VERB
+rescrew_VERB
+reseal_VERB
+reseat_VERB
+resemble_VERB
+reset_VERB
+resise_VERB
+resist_VERB
+rest_VERB
+rest_VERB arm_NOUN
+rest_VERB position_NOUN
+resume_VERB
+resume_VERB backstepping_NOUN
+resume_VERB course_NOUN
+resume_VERB posture_NOUN
+resume_VERB standing_NOUN
+resume_VERB steering_NOUN
+resume_VERB t_NOUN
+resume_VERB walking_NOUN
+rethink_VERB
+retrace_VERB
+retract_VERB
+retreat_VERB
+retrieve_VERB
+retrieve_VERB item_NOUN
+reture_VERB
+return_VERB
+return_VERB arm_NOUN
+return_VERB body_NOUN
+return_VERB hand_NOUN
+return_VERB twist_NOUN
+retwist_VERB
+reveal_VERB
+reverse_VERB
+reverse_VERB action_NOUN
+reverse_VERB circle_NOUN
+reverse_VERB course_NOUN
+reverse_VERB direction_NOUN
+reverse_VERB motion_NOUN
+revert_VERB
+revolve_VERB
+revs_VERB
+rhen_VERB
+rhyme_VERB
+riase_VERB
+ride_VERB
+right_VERB
+righthande_VERB
+righthande_VERB motion_NOUN
+rightlegge_VERB frontkick_NOUN
+rightward_VERB
+rightward_VERB sideway_NOUN
+rightwhilst_VERB
+rin_VERB
+ring_VERB
+rinse_VERB
+rir_VERB
+rise_VERB
+rn_VERB
+ro_VERB
+roate_VERB
+rock_VERB
+rock_VERB arm_NOUN
+rock_VERB baby_NOUN
+rock_VERB backandforth_NOUN
+rock_VERB body_NOUN
+rock_VERB side_NOUN
+rodde_VERB
+roll_VERB
+roll_VERB ankle_NOUN
+roll_VERB arm_NOUN
+roll_VERB hip_NOUN
+roll_VERB object_NOUN
+roll_VERB shoulder_NOUN
+rolli_VERB polli_NOUN
+root_VERB
+rope_VERB
+rope_VERB queue_NOUN
+roppe_VERB
+rotae_VERB
+rotae_VERB arm_NOUN
+rotate_VERB
+rotate_VERB anticlockwise_NOUN
+rotate_VERB arm_NOUN
+rotate_VERB ball_NOUN
+rotate_VERB body_NOUN
+rotate_VERB circle_NOUN
+rotate_VERB clockwise_NOUN
+rotate_VERB counter_NOUN
+rotate_VERB counterclockwise_NOUN
+rotate_VERB degree_NOUN
+rotate_VERB hand_NOUN
+rotate_VERB head_NOUN
+rotate_VERB hip_NOUN
+rotate_VERB inward_NOUN
+rotate_VERB jump_NOUN
+rotate_VERB leg_NOUN
+rotate_VERB motion_NOUN
+rotate_VERB object_NOUN
+rotate_VERB position_NOUN
+rotate_VERB right_NOUN
+rotate_VERB shoulder_NOUN
+rotate_VERB side_NOUN
+rotate_VERB trunk_NOUN
+rotatibg_VERB counterclockwise_NOUN
+round_VERB
+row_VERB
+rreverse_VERB
+rsuse_VERB arm_NOUN
+rub_VERB
+rub_VERB belly_NOUN
+rub_VERB foot_NOUN
+rub_VERB hand_NOUN
+rub_VERB head_NOUN
+rub_VERB motion_NOUN
+rub_VERB neck_NOUN
+rub_VERB object_NOUN
+rumble_VERB
+rummage_VERB
+run_VERB
+run_VERB bend_NOUN
+run_VERB clockwise_NOUN
+run_VERB counter_NOUN
+run_VERB counterclockwise_NOUN
+run_VERB duck_NOUN
+run_VERB finger_NOUN
+run_VERB front_NOUN
+run_VERB head_NOUN
+run_VERB heel_NOUN
+run_VERB hesitate_NOUN
+run_VERB inplace_NOUN
+run_VERB launch_NOUN
+run_VERB man_NOUN
+run_VERB position_NOUN
+run_VERB race_NOUN
+run_VERB side_NOUN
+run_VERB sprint_NOUN
+run_VERB start_NOUN
+run_VERB step_NOUN
+run_VERB stop_NOUN
+runnin_VERB
+rush_VERB
+rverse_VERB
+s_VERB
+s_VERB head_NOUN
+s_VERB up_NOUN
+salsa_VERB dance_NOUN
+salsa_VERB dancing_NOUN
+salt_VERB
+salute_VERB
+sand_VERB
+sashay_VERB
+saunter_VERB
+saw_VERB motion_NOUN
+say_VERB
+say_VERB arm_NOUN
+say_VERB beam_NOUN
+say_VERB goodbye_NOUN
+say_VERB object_NOUN
+say_VERB person_NOUN
+sbring_VERB
+scamp_VERB
+scamper_VERB
+scan_VERB
+scare_VERB
+scare_VERB people_NOUN
+scatche_VERB head_NOUN
+scoop_VERB
+scoop_VERB thing_NOUN
+scoot_VERB
+scoppe_VERB
+score_VERB
+scrache_VERB
+scramble_VERB
+scrape_VERB
+scratch_VERB
+scratch_VERB hand_NOUN
+scratch_VERB head_NOUN
+scratch_VERB motion_NOUN
+scratch_VERB self_NOUN
+scratch_VERB stomach_NOUN
+scream_VERB
+scream_VERB gesture_NOUN
+screw_VERB
+scribble_VERB
+scroll_VERB
+scrub_VERB
+scrub_VERB motion_NOUN
+scrunch_VERB
+scrutinize_VERB
+sctatche_VERB
+sctratche_VERB
+scuff_VERB
+search_VERB
+seat_VERB
+seat_VERB crosse_NOUN
+seat_VERB driver_NOUN
+seat_VERB lift_NOUN
+seat_VERB playing_NOUN
+seat_VERB position_NOUN
+seat_VERB postion_NOUN
+secure_VERB
+see_VERB
+seek_VERB
+seem_VERB
+seesaw_VERB
+select_VERB
+self_VERB
+sell_VERB
+send_VERB
+send_VERB signal_NOUN
+separate_VERB
+separate_VERB arm_NOUN
+seperate_VERB
+seperatind_VERB leg_NOUN
+serve_VERB
+set_VERB
+set_VERB item_NOUN
+set_VERB thing_NOUN
+settle_VERB
+sew_VERB
+sexy_VERB crawl_NOUN
+shadowbox_VERB
+shake_VERB
+shake_VERB arm_NOUN
+shake_VERB body_NOUN
+shake_VERB circulation_NOUN
+shake_VERB dice_NOUN
+shake_VERB disorder_NOUN
+shake_VERB hand_NOUN
+shake_VERB hip_NOUN
+shake_VERB kick_NOUN
+shake_VERB leg_NOUN
+shake_VERB motion_NOUN
+shake_VERB salt_NOUN
+shake_VERB shoulder_NOUN
+shake_VERB side_NOUN
+shake_VERB someone_NOUN
+shake_VERB theirbarm_NOUN
+shakimg_VERB theirbarm_NOUN
+shamble_VERB
+shape_VERB path_NOUN
+shape_VERB trajectory_NOUN
+sheilde_VERB
+shelter_VERB
+shew_VERB
+shield_VERB
+shift_VERB
+shift_VERB body_NOUN
+shift_VERB side_NOUN
+shift_VERB weight_NOUN
+shim_VERB
+shimmy_VERB
+shiver_VERB
+shoe_VERB
+shoed_VERB
+shoo_VERB
+shoot_VERB
+shoot_VERB ball_NOUN
+shoot_VERB motion_NOUN
+should_VERB
+should_VERB level_NOUN
+shoulder_VERB
+shoulder_VERB height_NOUN
+shoulder_VERB level_NOUN
+shoulder_VERB width_NOUN
+shoulderwidth_VERB
+shout_VERB
+shove_VERB
+shovel_VERB
+shovel_VERB motion_NOUN
+show_VERB
+show_VERB domination_NOUN
+show_VERB jesture_NOUN
+show_VERB pain_NOUN
+show_VERB respect_NOUN
+show_VERB stick_NOUN
+showcase_VERB
+shower_VERB
+showme_VERB
+showoff_VERB
+shrug_VERB
+shrug_VERB shoulder_NOUN
+shuffel_VERB
+shuffle_VERB
+shuffle_VERB amd_NOUN
+shuffle_VERB foot_NOUN
+shuffle_VERB gait_NOUN
+shuffle_VERB gate_NOUN
+shuffle_VERB side_NOUN
+shuffle_VERB step_NOUN
+shut_VERB
+shuttle_VERB
+side_VERB
+side_VERB arm_NOUN
+side_VERB dance_NOUN
+side_VERB elbow_NOUN
+side_VERB fashion_NOUN
+side_VERB foot_NOUN
+side_VERB hopping_NOUN
+side_VERB jab_NOUN
+side_VERB jump_NOUN
+side_VERB kick_NOUN
+side_VERB manner_NOUN
+side_VERB motion_NOUN
+side_VERB person_NOUN
+side_VERB pick_NOUN
+side_VERB pivot_NOUN
+side_VERB railing_NOUN
+side_VERB shoulder_NOUN
+side_VERB speed_NOUN
+side_VERB squat_NOUN
+side_VERB standing_NOUN
+side_VERB step_NOUN
+side_VERB stick_NOUN
+side_VERB time_NOUN
+side_VERB waltz_NOUN
+sidealong_VERB
+sideskip_VERB
+sidestep_VERB
+sidestep_VERB step_NOUN
+sidestep_VERB time_NOUN
+sidetoside_VERB
+sidewalk_VERB
+sideway_VERB
+sideway_VERB couple_NOUN
+sidewinde_VERB path_NOUN
+sidle_VERB
+sigh_VERB
+sign_VERB
+signal_VERB
+signal_VERB basketball_NOUN
+signal_VERB foul_NOUN
+simulate_VERB
+simulate_VERB baseball_NOUN
+simulate_VERB flying_NOUN
+singe_VERB
+sink_VERB
+sip_VERB
+sip_VERB wine_NOUN
+sit_VERB
+sit_VERB action_NOUN
+sit_VERB chair_NOUN
+sit_VERB cross_NOUN
+sit_VERB dial_NOUN
+sit_VERB down_NOUN
+sit_VERB hand_NOUN
+sit_VERB leg_NOUN
+sit_VERB man_NOUN
+sit_VERB motion_NOUN
+sit_VERB person_NOUN
+sit_VERB position_NOUN
+sit_VERB reach_NOUN
+sit_VERB up_NOUN
+site_VERB
+sititng_VERB
+situate_VERB
+skate_VERB
+skew_VERB
+ski_VERB
+skid_VERB
+skim_VERB
+skip_VERB
+skip_VERB clockwise_NOUN
+skip_VERB counterclockwise_NOUN
+skip_VERB forward_NOUN
+skip_VERB rope_NOUN
+skip_VERB side_NOUN
+skip_VERB sideway_NOUN
+skip_VERB step_NOUN
+slam_VERB
+slant_VERB
+slap_VERB
+slap_VERB arm_NOUN
+slap_VERB motion_NOUN
+slash_VERB
+slash_VERB motion_NOUN
+sleep_VERB
+sleep_VERB position_NOUN
+sleepwalk_VERB
+sleeve_VERB
+slice_VERB
+slice_VERB object_NOUN
+slide_VERB
+slide_VERB door_NOUN
+slide_VERB foot_NOUN
+slide_VERB forearm_NOUN
+slide_VERB glass_NOUN
+slide_VERB motion_NOUN
+slide_VERB step_NOUN
+slight_VERB
+sling_VERB
+slink_VERB
+slip_VERB
+slither_VERB
+slode_VERB
+slope_VERB
+slope_VERB object_NOUN
+slouch_VERB
+slow_VERB
+slow_VERB dance_NOUN
+slump_VERB
+smack_VERB
+smam_VERB
+smash_VERB
+smash_VERB gesture_NOUN
+smell_VERB
+smile_VERB
+smoke_VERB
+smooth_VERB
+smooth_VERB hip_NOUN
+snap_VERB
+sneak_VERB
+sneeze_VERB
+sniff_VERB
+snort_VERB motion_NOUN
+soap_VERB
+soar_VERB
+sob_VERB
+soemthe_VERB
+somee_VERB
+somehte_VERB
+someithe_VERB
+somersault_VERB
+somete_VERB
+somethie_VERB
+somethimg_VERB
+somthe_VERB
+somwthe_VERB
+sort_VERB
+sort_VERB item_NOUN
+space_VERB step_NOUN
+span_VERB
+spar_VERB
+spar_VERB stick_NOUN
+spasm_VERB
+speak_VERB
+speed_VERB
+speedwalk_VERB
+spike_VERB
+spin_VERB
+spin_VERB anticlockwise_NOUN
+spin_VERB arm_NOUN
+spin_VERB body_NOUN
+spin_VERB clockwise_NOUN
+spin_VERB counter_NOUN
+spin_VERB counterclockwise_NOUN
+spin_VERB dance_NOUN
+spin_VERB degree_NOUN
+spin_VERB hand_NOUN
+spin_VERB heel_NOUN
+spin_VERB side_NOUN
+spin_VERB wheel_NOUN
+spinne_VERB
+spint_VERB
+spiritless_VERB
+splash_VERB
+splay_VERB
+split_VERB leg_NOUN
+sponge_VERB
+spook_VERB
+spot_VERB
+sprawl_VERB
+spray_VERB
+spre_VERB
+spread_VERB
+spread_VERB arm_NOUN
+spread_VERB eagle_NOUN
+spread_VERB hand_NOUN
+spread_VERB inventory_NOUN
+spread_VERB leg_NOUN
+spread_VERB shoulderwidth_NOUN
+spred_VERB
+spring_VERB
+sprinkle_VERB
+sprint_VERB
+sprint_VERB side_NOUN
+sprit_VERB
+sprout_VERB
+spthrowe_VERB
+sqaut_VERB
+squad_VERB
+squar_VERB
+square_VERB
+squart_VERB
+squat_VERB
+squat_VERB arm_NOUN
+squat_VERB clamber_NOUN
+squat_VERB dawn_NOUN
+squat_VERB down_NOUN
+squat_VERB exercise_NOUN
+squat_VERB jump_NOUN
+squat_VERB leg_NOUN
+squat_VERB man_NOUN
+squat_VERB motion_NOUN
+squat_VERB move_NOUN
+squat_VERB person_NOUN
+squat_VERB place_NOUN
+squat_VERB position_NOUN
+squat_VERB side_NOUN
+squat_VERB stance_NOUN
+squat_VERB t_NOUN
+squat_VERB thrust_NOUN
+squat_VERB time_NOUN
+squeeze_VERB
+squish_VERB
+sraighten_VERB
+srande_VERB position_NOUN
+sratch_VERB
+sratche_VERB
+sshape_VERB path_NOUN
+sshape_VERB pattern_NOUN
+stabalize_VERB
+stabilize_VERB
+stable_VERB
+stack_VERB
+stad_VERB
+stade_VERB
+stadne_VERB person_NOUN
+stager_VERB
+stagere_VERB
+stagger_VERB
+stalk_VERB
+stamd_VERB
+stamp_VERB
+stan_VERB
+stance_VERB
+stand_VERB
+stand_VERB arm_NOUN
+stand_VERB bend_NOUN
+stand_VERB bicep_NOUN
+stand_VERB bow_NOUN
+stand_VERB center_NOUN
+stand_VERB clap_NOUN
+stand_VERB contrapoint_NOUN
+stand_VERB crosse_NOUN
+stand_VERB crunch_NOUN
+stand_VERB erect_NOUN
+stand_VERB figure_NOUN
+stand_VERB foot_NOUN
+stand_VERB guard_NOUN
+stand_VERB half_NOUN
+stand_VERB hand_NOUN
+stand_VERB hip_NOUN
+stand_VERB hop_NOUN
+stand_VERB juggling_NOUN
+stand_VERB jump_NOUN
+stand_VERB jumping_NOUN
+stand_VERB knee_NOUN
+stand_VERB lean_NOUN
+stand_VERB leg_NOUN
+stand_VERB lift_NOUN
+stand_VERB man_NOUN
+stand_VERB move_NOUN
+stand_VERB person_NOUN
+stand_VERB pivot_NOUN
+stand_VERB point_NOUN
+stand_VERB position_NOUN
+stand_VERB posture_NOUN
+stand_VERB push_NOUN
+stand_VERB reach_NOUN
+stand_VERB recoil_NOUN
+stand_VERB scratch_NOUN
+stand_VERB shoulder_NOUN
+stand_VERB side_NOUN
+stand_VERB sideward_NOUN
+stand_VERB spin_NOUN
+stand_VERB stand_NOUN
+stand_VERB start_NOUN
+stand_VERB step_NOUN
+stand_VERB still_NOUN
+stand_VERB stretch_NOUN
+stand_VERB stumble_NOUN
+stand_VERB t_NOUN
+stand_VERB take_NOUN
+stand_VERB throw_NOUN
+stand_VERB tiptoe_NOUN
+stand_VERB up_NOUN
+stand_VERB wave_NOUN
+stand_VERB winding_NOUN
+stand_VERB woman_NOUN
+standie_VERB
+standstill_VERB
+standsup_VERB
+standup_VERB
+stane_VERB idle_NOUN
+staninf_VERB
+star_VERB
+starched_VERB
+stare_VERB
+stare_VERB location_NOUN
+stare_VERB point_NOUN
+start_VERB
+start_VERB action_NOUN
+start_VERB area_NOUN
+start_VERB cooking_NOUN
+start_VERB crawling_NOUN
+start_VERB dancing_NOUN
+start_VERB form_NOUN
+start_VERB jump_NOUN
+start_VERB jumproping_NOUN
+start_VERB leaping_NOUN
+start_VERB limping_NOUN
+start_VERB location_NOUN
+start_VERB motion_NOUN
+start_VERB movement_NOUN
+start_VERB pacing_NOUN
+start_VERB place_NOUN
+start_VERB point_NOUN
+start_VERB posiiton_NOUN
+start_VERB posistion_NOUN
+start_VERB position_NOUN
+start_VERB running_NOUN
+start_VERB salsa_NOUN
+start_VERB scratch_NOUN
+start_VERB skipping_NOUN
+start_VERB stance_NOUN
+start_VERB standing_NOUN
+start_VERB stretch_NOUN
+start_VERB swimming_NOUN
+start_VERB walking_NOUN
+startle_VERB
+stat_VERB
+station_VERB
+stay_VERB
+stay_VERB shoulder_NOUN
+stay_VERB stand_NOUN
+stay_VERB standing_NOUN
+stayne_VERB
+steady_VERB
+steady_VERB item_NOUN
+steal_VERB
+steel_VERB
+steep_VERB
+steer_VERB
+steer_VERB wheel_NOUN
+step_VERB
+step_VERB bend_NOUN
+step_VERB body_NOUN
+step_VERB equidistant_NOUN
+step_VERB foot_NOUN
+step_VERB foreward_NOUN
+step_VERB foward_NOUN
+step_VERB side_NOUN
+step_VERB sidewise_NOUN
+stepkick_VERB
+steppe_VERB
+stepppe_VERB
+stepsdown_VERB
+sterre_VERB wheel_NOUN
+stetch_VERB
+stetche_VERB motion_NOUN
+stgep_VERB
+stick_VERB
+stick_VERB arm_NOUN
+stiffen_VERB
+stifle_VERB
+stir_VERB
+stir_VERB clockwise_NOUN
+stir_VERB counterclockwise_NOUN
+stir_VERB motion_NOUN
+stmble_VERB
+stnad_VERB
+sto_VERB
+stomach_VERB
+stomach_VERB height_NOUN
+stomp_VERB
+stomp_VERB foot_NOUN
+stoop_VERB
+stoop_VERB pace_NOUN
+stoop_VERB person_NOUN
+stop_VERB
+stop_VERB arm_NOUN
+stop_VERB body_NOUN
+stop_VERB gf_NOUN
+stop_VERB hand_NOUN
+stop_VERB midway_NOUN
+stop_VERB motion_NOUN
+stop_VERB movement_NOUN
+stop_VERB pain_NOUN
+stop_VERB partway_NOUN
+stop_VERB signal_NOUN
+stop_VERB sun_NOUN
+stop_VERB unsure_NOUN
+stop_VERB way_NOUN
+stopppe_VERB
+strache_VERB
+stracthe_VERB
+straddle_VERB
+strafe_VERB
+strafe_VERB step_NOUN
+straggle_VERB
+straighten_VERB
+straighten_VERB arm_NOUN
+straighten_VERB elbow_NOUN
+straighten_VERB leg_NOUN
+strain_VERB
+strait_VERB
+straiten_VERB
+strat_VERB
+stratche_VERB
+stratche_VERB hand_NOUN
+strathe_VERB
+streache_VERB
+strech_VERB
+streche_VERB
+strechte_VERB
+strecth_VERB
+strecthe_VERB
+street_VERB
+stress_VERB
+stretch_VERB
+stretch_VERB arm_NOUN
+stretch_VERB calf_NOUN
+stretch_VERB excercise_NOUN
+stretch_VERB exercise_NOUN
+stretch_VERB foward_NOUN
+stretch_VERB hand_NOUN
+stretch_VERB leg_NOUN
+stretch_VERB motion_NOUN
+stretch_VERB movement_NOUN
+stretch_VERB outward_NOUN
+stretch_VERB position_NOUN
+stretch_VERB side_NOUN
+stretch_VERB while_NOUN
+stride_VERB
+stride_VERB leg_NOUN
+stride_VERB leleft_NOUN
+stride_VERB leright_NOUN
+strike_VERB
+strike_VERB ball_NOUN
+strike_VERB motorcycle_NOUN
+stroke_VERB
+stroke_VERB motion_NOUN
+stroll_VERB
+struggle_VERB
+struggle_VERB motion_NOUN
+strum_VERB
+strum_VERB motion_NOUN
+strum_VERB object_NOUN
+strut_VERB
+sttreche_VERB
+stubble_VERB
+stuff_VERB
+stuggle_VERB
+stumble_VERB
+stumble_VERB catch_NOUN
+stumble_VERB person_NOUN
+stumble_VERB step_NOUN
+stump_VERB
+stump_VERB one_NOUN
+stumple_VERB
+style_VERB motion_NOUN
+style_VERB pose_NOUN
+suffle_VERB
+suggest_VERB
+suggest_VERB aggression_NOUN
+support_VERB
+support_VERB body_NOUN
+support_VERB leg_NOUN
+support_VERB weight_NOUN
+surprise_VERB
+suspend_VERB
+swag_VERB
+swagger_VERB
+swagger_VERB stride_NOUN
+swan_VERB
+swap_VERB
+swap_VERB side_NOUN
+swat_VERB
+swat_VERB thing_NOUN
+swawe_VERB
+sway_VERB
+sway_VERB arm_NOUN
+sway_VERB body_NOUN
+sway_VERB hand_NOUN
+sway_VERB hip_NOUN
+sway_VERB motion_NOUN
+sway_VERB right_NOUN
+sway_VERB shoulder_NOUN
+sway_VERB side_NOUN
+sway_VERB stop_NOUN
+swe_VERB
+sweep_VERB
+sweep_VERB mop_NOUN
+sweep_VERB motion_NOUN
+swerve_VERB
+swerve_VERB pattern_NOUN
+swiddle_VERB
+swiele_VERB arm_NOUN
+swift_VERB
+swim_VERB
+swim_VERB breast_NOUN
+swim_VERB breaststroke_NOUN
+swim_VERB face_NOUN
+swim_VERB fly_NOUN
+swine_VERB
+swing_VERB
+swing_VERB arm_NOUN
+swing_VERB hand_NOUN
+swing_VERB hip_NOUN
+swing_VERB racket_NOUN
+swing_VERB side_NOUN
+swinge_VERB
+swinge_VERB arm_NOUN
+swinge_VERB body_NOUN
+swinge_VERB elbow_NOUN
+swinge_VERB golf_NOUN
+swinge_VERB hand_NOUN
+swinge_VERB hip_NOUN
+swinge_VERB leg_NOUN
+swinge_VERB motion_NOUN
+swinge_VERB pause_NOUN
+swinge_VERB side_NOUN
+swinge_VERB step_NOUN
+swingin_VERB
+swipe_VERB
+swipe_VERB motion_NOUN
+swirl_VERB
+swirl_VERB snakelike_NOUN
+swirls_VERB
+switch_VERB
+switch_VERB arm_NOUN
+switch_VERB foot_NOUN
+switch_VERB hand_NOUN
+switch_VERB leg_NOUN
+switch_VERB position_NOUN
+switch_VERB stance_NOUN
+swivel_VERB
+swivel_VERB body_NOUN
+swivel_VERB hip_NOUN
+swivel_VERB leg_NOUN
+swivle_VERB
+syarte_VERB
+symbol_VERB
+synchronize_VERB
+t_VERB
+table_VERB
+table_VERB height_NOUN
+tackel_VERB
+taise_VERB
+tak_VERB
+take_VERB
+take_VERB acoullenstep_NOUN
+take_VERB bend_NOUN
+take_VERB bottle_NOUN
+take_VERB care_NOUN
+take_VERB couple_NOUN
+take_VERB cross_NOUN
+take_VERB drink_NOUN
+take_VERB foreword_NOUN
+take_VERB hold_NOUN
+take_VERB hop_NOUN
+take_VERB hulking_NOUN
+take_VERB marching_NOUN
+take_VERB picture_NOUN
+take_VERB rest_NOUN
+take_VERB selfie_NOUN
+take_VERB side_NOUN
+take_VERB sidestep_NOUN
+take_VERB soap_NOUN
+take_VERB someone_NOUN
+take_VERB stel_NOUN
+take_VERB step_NOUN
+take_VERB stuff_NOUN
+take_VERB stutter_NOUN
+take_VERB support_NOUN
+take_VERB thing_NOUN
+take_VERB turn_NOUN
+take_VERB walk_NOUN
+take_VERB warm_NOUN
+takeoff_VERB
+takle_VERB
+tale_VERB
+talk_VERB
+talk_VERB step_NOUN
+tand_VERB
+tande_VERB
+tandem_VERB
+tap_VERB
+tap_VERB foot_NOUN
+tap_VERB step_NOUN
+tap_VERB toe_NOUN
+tapdance_VERB
+taunt_VERB
+teach_VERB
+tear_VERB
+tee_VERB
+teeter_VERB
+teleport_VERB
+tell_VERB
+tend_VERB
+tense_VERB
+term_VERB counterclockwise_NOUN
+terminate_VERB velocity_NOUN
+test_VERB
+teye_VERB
+thank_VERB
+thank_VERB people_NOUN
+thatbi_VERB
+theirhead_VERB
+thenbstep_VERB
+thenwalk_VERB
+theor_VERB
+thepat_VERB
+thesteppe_VERB
+thier_VERB
+thier_VERB right_NOUN
+think_VERB
+thr_VERB
+thrash_VERB
+threaten_VERB predator_NOUN
+thriw_VERB
+thrnturn_VERB
+through_VERB
+throw_VERB
+throw_VERB action_NOUN
+throw_VERB ang_NOUN
+throw_VERB arm_NOUN
+throw_VERB ball_NOUN
+throw_VERB baseball_NOUN
+throw_VERB boxing_NOUN
+throw_VERB card_NOUN
+throw_VERB debris_NOUN
+throw_VERB dirt_NOUN
+throw_VERB fist_NOUN
+throw_VERB football_NOUN
+throw_VERB garbage_NOUN
+throw_VERB hand_NOUN
+throw_VERB item_NOUN
+throw_VERB jab_NOUN
+throw_VERB kick_NOUN
+throw_VERB leg_NOUN
+throw_VERB motion_NOUN
+throw_VERB object_NOUN
+throw_VERB overhand_NOUN
+throw_VERB punch_NOUN
+throw_VERB sidearm_NOUN
+throw_VERB thing_NOUN
+throw_VERB toss_NOUN
+throw_VERB uppercut_NOUN
+thrust_VERB
+thrust_VERB hand_NOUN
+thrust_VERB motion_NOUN
+thrust_VERB outward_NOUN
+thtep_VERB
+thump_VERB
+tickle_VERB
+tie_VERB
+tie_VERB shoe_NOUN
+tighten_VERB
+tightrope_VERB
+till_VERB
+tilt_VERB
+tilt_VERB head_NOUN
+tilt_VERB object_NOUN
+tilt_VERB self_NOUN
+tilt_VERB style_NOUN
+timerelate_VERB message_NOUN
+tip_VERB
+tip_VERB toe_NOUN
+tippytoe_VERB
+tiptoe_VERB
+title_VERB
+toe_VERB
+toe_VERB knee_NOUN
+togethe_VERB
+top_VERB
+topple_VERB
+torque_VERB
+torso_VERB
+torso_VERB clockwise_NOUN
+torso_VERB counterclockwise_NOUN
+torso_VERB side_NOUN
+torso_VERB twist_NOUN
+toss_VERB
+toss_VERB motion_NOUN
+touch_VERB
+touch_VERB chest_NOUN
+touch_VERB face_NOUN
+touch_VERB finger_NOUN
+touch_VERB floor_NOUN
+touch_VERB ground_NOUN
+touch_VERB hand_NOUN
+touch_VERB handrail_NOUN
+touch_VERB head_NOUN
+touch_VERB knee_NOUN
+touch_VERB object_NOUN
+touch_VERB thing_NOUN
+touch_VERB wall_NOUN
+touhe_VERB
+tpose_VERB
+tpose_VERB n_NOUN
+trace_VERB
+track_VERB something_NOUN
+trail_VERB
+transfer_VERB
+transform_VERB
+transition_VERB
+transverse_VERB
+travel_VERB
+travel_VERB sign_NOUN
+travel_VERB signal_NOUN
+tre_VERB
+tread_VERB water_NOUN
+treadmill_VERB
+tremble_VERB
+trialle_VERB
+trip_VERB
+trot_VERB
+trouble_VERB
+trowe_VERB
+trtace_VERB
+trudge_VERB
+trune_VERB clockwise_NOUN
+trune_VERB counterclockwise_NOUN
+try_VERB
+tryie_VERB
+ttheir_VERB arm_NOUN
+tuck_VERB
+tug_VERB
+tumble_VERB
+ture_VERB
+turn_VERB
+turn_VERB aboutface_NOUN
+turn_VERB adound_NOUN
+turn_VERB ankle_NOUN
+turn_VERB anticlockwise_NOUN
+turn_VERB arm_NOUN
+turn_VERB arond_NOUN
+turn_VERB around_NOUN
+turn_VERB attention_NOUN
+turn_VERB bend_NOUN
+turn_VERB body_NOUN
+turn_VERB climb_NOUN
+turn_VERB clockwise_NOUN
+turn_VERB counter_NOUN
+turn_VERB counterclockwise_NOUN
+turn_VERB degree_NOUN
+turn_VERB direction_NOUN
+turn_VERB hand_NOUN
+turn_VERB head_NOUN
+turn_VERB knob_NOUN
+turn_VERB leftward_NOUN
+turn_VERB palm_NOUN
+turn_VERB pattern_NOUN
+turn_VERB rightward_NOUN
+turn_VERB round_NOUN
+turn_VERB side_NOUN
+turn_VERB sideway_NOUN
+turn_VERB squat_NOUN
+turn_VERB steering_NOUN
+turn_VERB torso_NOUN
+turnaround_VERB
+turnign_VERB
+turnt_VERB
+twirl_VERB
+twirl_VERB motion_NOUN
+twisite_VERB
+twist_VERB
+twist_VERB anticlockwise_NOUN
+twist_VERB arm_NOUN
+twist_VERB clockwise_NOUN
+twist_VERB counterclockwise_NOUN
+twist_VERB degree_NOUN
+twist_VERB foot_NOUN
+twist_VERB hip_NOUN
+twist_VERB leg_NOUN
+twist_VERB midair_NOUN
+twist_VERB side_NOUN
+twist_VERB trunk_NOUN
+twitch_VERB
+twolegge_VERB standing_NOUN
+tye_VERB
+type_VERB
+type_VERB move_NOUN
+tyrn_VERB
+ump_VERB
+unbalance_VERB
+unbend_VERB
+uncap_VERB
+unclasp_VERB
+unclog_VERB
+uncross_VERB
+uncross_VERB hand_NOUN
+uncross_VERB leg_NOUN
+underhande_VERB
+understand_VERB
+undo_VERB trouser_NOUN
+undulate_VERB
+unfold_VERB
+unlock_VERB
+unmove_VERB
+unravel_VERB
+unscrew_VERB
+unscrew_VERB bottle_NOUN
+untangle_VERB
+untwist_VERB
+unwrap_VERB
+unzip_VERB
+unzip_VERB motion_NOUN
+unzip_VERB pant_NOUN
+unzipper_VERB
+up_VERB
+upleft_VERB
+uplift_VERB
+uplift_VERB arm_NOUN
+uppercore_VERB body_NOUN
+uppercut_VERB
+upraise_VERB
+ups_VERB
+upset_VERB
+urinate_VERB
+usain_VERB
+use_VERB
+use_VERB arm_NOUN
+use_VERB ballet_NOUN
+use_VERB binocular_NOUN
+use_VERB body_NOUN
+use_VERB box_NOUN
+use_VERB breast_NOUN
+use_VERB breaststroke_NOUN
+use_VERB butterfly_NOUN
+use_VERB circle_NOUN
+use_VERB dumbell_NOUN
+use_VERB elbow_NOUN
+use_VERB fist_NOUN
+use_VERB hand_NOUN
+use_VERB handrail_NOUN
+use_VERB hip_NOUN
+use_VERB jump_NOUN
+use_VERB knee_NOUN
+use_VERB knife_NOUN
+use_VERB leg_NOUN
+use_VERB monkey_NOUN
+use_VERB object_NOUN
+use_VERB self_NOUN
+use_VERB shampoo_NOUN
+use_VERB sign_NOUN
+use_VERB steering_NOUN
+use_VERB stool_NOUN
+use_VERB support_NOUN
+use_VERB tool_NOUN
+use_VERB touch_NOUN
+use_VERB wall_NOUN
+ut_VERB
+utilize_VERB
+utilize_VERB hand_NOUN
+uturn_VERB
+vacuum_VERB
+vary_VERB degree_NOUN
+vary_VERB size_NOUN
+vault_VERB
+ve_VERB
+veer_VERB
+veer_VERB motion_NOUN
+vibrate_VERB
+viceversa_VERB
+view_VERB
+vocalize_VERB
+volley_VERB
+volleyball_VERB
+vomit_VERB
+waalk_VERB
+waddle_VERB
+waddle_VERB side_NOUN
+wade_VERB
+waft_VERB
+wag_VERB
+waist_VERB
+wait_VERB
+waive_VERB
+waive_VERB goodbye_NOUN
+waive_VERB hand_NOUN
+wak_VERB
+wake_VERB
+wake_VERB man_NOUN
+wakke_VERB
+wakle_VERB
+wal_VERB
+wale_VERB
+walekd_VERB
+walk_VERB
+walk_VERB anticlockwise_NOUN
+walk_VERB aroudn_NOUN
+walk_VERB backard_NOUN
+walk_VERB backeard_NOUN
+walk_VERB backrward_NOUN
+walk_VERB backwad_NOUN
+walk_VERB bakward_NOUN
+walk_VERB balkward_NOUN
+walk_VERB bend_NOUN
+walk_VERB bery_NOUN
+walk_VERB clock_NOUN
+walk_VERB clockwise_NOUN
+walk_VERB counter_NOUN
+walk_VERB counterclock_NOUN
+walk_VERB counterclockwise_NOUN
+walk_VERB dorection_NOUN
+walk_VERB douwnstair_NOUN
+walk_VERB down_NOUN
+walk_VERB downwstair_NOUN
+walk_VERB fit_NOUN
+walk_VERB foreward_NOUN
+walk_VERB foreword_NOUN
+walk_VERB forrwad_NOUN
+walk_VERB forwad_NOUN
+walk_VERB forwar_NOUN
+walk_VERB forward_NOUN
+walk_VERB foward_NOUN
+walk_VERB handstand_NOUN
+walk_VERB heel_NOUN
+walk_VERB hesitate_NOUN
+walk_VERB hop_NOUN
+walk_VERB knee_NOUN
+walk_VERB man_NOUN
+walk_VERB motion_NOUN
+walk_VERB move_NOUN
+walk_VERB navigate_NOUN
+walk_VERB pace_NOUN
+walk_VERB part_NOUN
+walk_VERB pass_NOUN
+walk_VERB path_NOUN
+walk_VERB person_NOUN
+walk_VERB shoulder_NOUN
+walk_VERB side_NOUN
+walk_VERB sideway_NOUN
+walk_VERB speed_NOUN
+walk_VERB sprint_NOUN
+walk_VERB staright_NOUN
+walk_VERB step_NOUN
+walk_VERB stick_NOUN
+walk_VERB stop_NOUN
+walk_VERB stumble_NOUN
+walk_VERB thee_NOUN
+walk_VERB toe_NOUN
+walk_VERB upstairs_NOUN
+walkign_VERB
+walkin_VERB
+walkind_VERB
+walksclockwose_VERB
+walkss_VERB
+wallke_VERB
+walsk_VERB
+waltz_VERB
+waltz_VERB motion_NOUN
+waltz_VERB stop_NOUN
+wander_VERB
+want_VERB
+warlk_VERB
+warm_VERB
+wash_VERB
+wash_VERB armpit_NOUN
+wash_VERB dish_NOUN
+wash_VERB window_NOUN
+waslke_VERB
+watake_VERB
+watch_VERB
+watch_VERB tv_NOUN
+wave_VERB
+wave_VERB air_NOUN
+wave_VERB arm_NOUN
+wave_VERB flag_NOUN
+wave_VERB gesture_NOUN
+wave_VERB goodbye_NOUN
+wave_VERB hand_NOUN
+wave_VERB motion_NOUN
+wave_VERB path_NOUN
+wave_VERB position_NOUN
+waver_VERB
+wear_VERB boot_NOUN
+weave_VERB
+weed_VERB
+weigh_VERB
+weight_VERB
+weightlift_VERB
+whale_VERB
+whilr_VERB
+whip_VERB
+whisk_VERB
+whisk_VERB egg_NOUN
+whisk_VERB food_NOUN
+whisper_VERB
+whistle_VERB
+whith_VERB
+whle_VERB
+widen_VERB
+widen_VERB arm_NOUN
+widen_VERB circle_NOUN
+widewalke_VERB
+width_VERB
+wiggile_VERB
+wiggle_VERB
+wiggle_VERB ankle_NOUN
+wiggle_VERB arm_NOUN
+wiggle_VERB side_NOUN
+will_VERB
+win_VERB
+wince_VERB
+wind_VERB
+wind_VERB arm_NOUN
+windmill_VERB
+windmille_VERB
+window_VERB
+wipe_VERB
+wipe_VERB face_NOUN
+wipe_VERB hand_NOUN
+wipe_VERB motion_NOUN
+wipe_VERB movement_NOUN
+wipe_VERB pattern_NOUN
+wipe_VERB sweat_NOUN
+wipe_VERB table_NOUN
+wit_VERB
+witg_VERB
+withdraw_VERB
+withtheir_VERB
+witn_VERB
+wlake_VERB
+wlke_VERB
+wobble_VERB
+wobble_VERB position_NOUN
+wobble_VERB side_NOUN
+wonder_VERB
+work_VERB
+worre_VERB
+worry_VERB
+woth_VERB
+would_VERB
+wound_VERB leg_NOUN
+wrap_VERB
+wrap_VERB hand_NOUN
+wrestle_VERB
+wrestle_VERB position_NOUN
+wriggle_VERB
+wring_VERB
+wrinkle_VERB
+wrist_VERB
+write_VERB
+write_VERB description_NOUN
+write_VERB kick_NOUN
+write_VERB word_NOUN
+writhe_VERB
+wslk_VERB
+wwalke_VERB
+yawn_VERB
+yell_VERB
+zag_VERB
+zagge_VERB
+zig_VERB
+zig_VERB zag_NOUN
+zigzag_VERB
+zip_VERB

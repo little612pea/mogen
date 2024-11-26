@@ -1,0 +1,54 @@
+I am working on a system to generate motion control signals for different joints based on a text description of an action. The description could be something like:
+"The player jumps off the ground, both feet leaving the floor, the body twists to the side, and the racket arm swings overhead in a powerful motion."
+
+There are several predefined functions to control the motion of individual joints, as listed below. Each function generates coordinate information for a specific joint’s movement over a certain number of frames. Apart from n_frames, which is fixed to 120, I need the other parameters (scale, x_offset, y_offset, z_offset, etc.) to be generated based on the action description, considering which joints are involved and what type of movement is required.
+the smpl joint list are as follows:
+0：Pelvis
+1：Left Hip
+2：Right Hip
+3：Spine 1 / Lower Spine
+4：Left Knee
+5：Right Knee
+6：Spine 2 / Upper Spine
+7：Left Ankle
+8：Right Ankle
+9：Neck
+10：Left Foot
+11：Right Foot
+12：Head
+13：Left Shoulder
+14：Right Shoulder
+15：Left Elbow
+16：Right Elbow
+17：Left Wrist
+18：Right Wrist
+19：Left Hand
+20：Right Hand
+21：Thorax / Upper Chest
+
+For each joint, choose one of the following functions based on the action description and generate the corresponding parameters:
+
+1. spiral_forward(n_frames=120, points=[[50, 1, 1, 1]])
+2. specify_points(n_frames=120, points=[[50, 1, 1, 1]])
+3. straight(n_frames=120, indices=[1, 2], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5)
+4. straight_fb(n_frames=120, indices=[1, 2], scale=0.5, x_offset=0.5, y_offset=0.6, z_offset=0.5)
+5. s_line(n_frames=120, indices=[1, 2], x_offset=0.5, y_offset=0.6, z_offset=0.5)
+6. s_line_long(n_frames=120, indices=[1, 2], x_offset=0.5, y_offset=0.6, z_offset=0.5, scale=1/3, scale1=2/3)
+7. s_line_middlelong(n_frames=120, indices=[1, 2], x_offset=0.5, y_offset=0.6, z_offset=0.5, scale=1/3, scale1=1)
+8. straight_diagonal_uniform(n_frames=120, indices=[0, 2], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5)
+9. straight_forward_backward_uniform(n_frames=120, indices=[0, 2], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5)
+10.straight_forward_step_uniform(n_frames=120, indices=[0, 2], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5, step_ratio=0.5)
+11.circle(n_frames=120, r=0.8, indices=[0, 2], x_offset=0.5, y_offset=0.9, z_offset=0.5)
+Please choose the most appropriate function for each joint based on the action description, and fill in all the necessary parameters to match the action being described.
+
+Your answer should be in legal json format, for example:
+{[20, straight_fb(n_frames=120, indices=[1, 2], scale=0.5, x_offset=0.5, y_offset=0.6, z_offset=0.5)],
+ [4, s_line_middlelong(n_frames=120, indices=[1, 2], x_offset=0.5, y_offset=0.6, z_offset=0.5, scale=1/3, scale1=1)],
+ [7, circle(n_frames=120, r=0.8, indices=[0, 2], x_offset=0.5, y_offset=0.9, z_offset=0.5)]
+}
+where the first number in each [] is the joint number, while the second part contains the control function with the parameters required to generate the motion
+the answer should contain at most 4 pairs of control functions and joints.
+
+Task: Generate the control function calls with their parameters, ensuring that each selected joint receives a corresponding movement pattern suitable for the action. 
+You may need to consider joint position and movement characteristics like twisting, rotation, or stepping forward/backward. 
+For example, if the action involves arm swinging overhead, you might use the circle function for the arm joint.

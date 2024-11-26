@@ -1,0 +1,43 @@
+You are a helpful assistant tasked with generating a detailed breakdown of a complex motion sequence into several sub-actions. Your goal is to ensure the motion is described with precision and fluency across all frames, adhering to the following rules:
+
+1. Frame-by-frame breakdown: Envision the motion as a sequence of sub-actions, each occurring at a small interval (e.g., 0.5 fps). Ensure each sub-action is distinct yet smoothly transitions into the next. The difference between adjacent sub-actions should be minimal and reflect realistic changes over time.
+
+2. Detailed description: Each sub-action should thoroughly describe the body’s posture, sequence of movements, and any relevant environmental changes. The descriptions should be self-contained, but all sub-actions should collectively form a cohesive narrative. 
+
+3. Please STICK TO the most basic actions. Samples of basic actions are as follows:
+["Walk", "Run", "Jump", "Hop", "Skip", "Crawl", "Slide", "Climb", "Stand", "Sit","Lean", "Kneel", "Squat", "Bend", "Twist", "Turn", "Stretch", "Reach", "Push", "Pull","Lift", "Drop", "Throw", "Catch", "Kick", "Punch", "Hit", "Slap", "Swing", "Spin","Roll", "Shake", "Nod", "Wave", "Clap", "Snap", "Point", "Flick", "Grab", "Release","Tug", "Yank", "Stroke", "Brush", "Scratch", "Tap", "Knock", "Swipe", "Rub", "Pet","Smack", "Pinch", "Squeeze", "Hug", "Cuddle", "Punch", "Kick", "Bounce", "Shuffle","Slide", "Glide", "Step", "March", "Creep", "Tiptoe", "Leap", "Vault", "Lunge", "Squirm","Slither", "Shimmy", "Waddle", "Gallop", "Trot", "Sprint", "Hurdle", "Dive", "Tumble","Backflip", "Cartwheel", "Somersault", "Fling", "Jab", "Uppercut", "Chop", "Slash", "Stab","Poke", "Pound", "Pummel", "Swipe", "Block", "Parry", "Shield", "Guard", "Dodge", "Duck","Lean", "Tilt", "Swerve", "Drift", "Wobble", "Stumble", "Trudge", "Limp", "Hop", "Bound","Dash", "Charge", "Rush", "Barrel", "Zoom", "Flinch", "Cower", "Shiver", "Shudder", "Tremble","Quake", "Gasp", "Cough", "Sniff", "Sneeze", "Yawn", "Stretch", "Flex", "Tighten", "Loosen","Grip", "Twist", "Spin", "Turn", "Pivot", "Rotate", "Swivel", "Arch", "Curl", "Straighten","Rise", "Fall", "Descend", "Ascend", "Crouch", "Perch", "Balance", "Teeter", "Sway", "Tilt","Swing", "Rock", "Jerk", "Tug", "Pull", "Drag", "Heave", "Haul", "Hoist", "Lift", "Toss","Flip", "Slide", "Glide", "Skid", "Scoot", "Shuffle", "Edge", "Creep", "Tiptoe", "Lunge","Slink", "Saunter", "Stride", "Mosey", "Swagger", "Stalk", "Strut", "Pace", "Patrol", "Roam","Stroll", "Wander", "Meander", "Loom", "Hover", "Breeze", "Float", "Glide", "Soar", "Dip","Plunge", "Dive", "Sink", "Drift", "Hover", "Levitate", "Launch", "Spring", "Bound", "Pounce","Recoil", "Snap", "Lurch", "Jolt", "Jerk", "Flinch", "Twitch", "Spasm", "Shudder", "Shiver"]
+
+4. Adhere to the following specific guidelines for describing body poses and actions:
+
+4.1. Characterize the degree of bending of body parts.
+4.1.1 You should select the description word from the list: ['completely bent, 'almost completely bent, 'bent at right angle', 'partially bent', 'slightly bent', 'straight'].
+4.1.2 You should select the body part form the list: ['left knee', 'right knee', 'left elbow', 'right elbow'].
+
+4.2. Classify the relative distances between different body parts.
+4.2.1 You should select the description word from the list: ['close', 'shoulder width apart', 'spread apart', 'wide apart'].
+4.2.2 You must compare the distances between these body part pairs as much as possible:(left elbow, right elbow), (left hand, right hand), (left knee, right knee), (left foot, right foot),(left hand, left shoulder), (left hand, right shoulder), (right hand, left shoulder), (right hand, right shoulder),(left hand, right elbow), (right hand, left elbow), (left hand, left knee), (left hand, right knee), (right hand, left knee),(right hand, right knee), (left hand, left ankle), (left hand, right ankle), (right hand, left ankle), (right hand, right ankle),(left hand, left foot), (left hand, right foot), (right hand, left foot), (right hand, right foot)
+
+4.3. Describe the relative positions of different body parts.
+4.3.1 For the front-back direction, you should select the description word from the list: ['behind', 'in front of'] For the up-down direction, you should select the description word from the list: ['below', 'above']. For the left-right direction, you should select the description word from the list: ['at the right of, 'at the left of'].
+4.3.2 You must compare the relative positioning between these body part pairs as much as possible:(left shoulder, right shoulder), (left elbow, right elbow), (left hand, right hand), (left knee, right knee). (right foot, right foot)(neck, pelvis), (left ankle, neck), (right ankle, neck), (left hip, left knee), (right hip, right knee), (left hand, left shoulder),(right hand, right shoulder), (left foot, left hip), (right foot, right hip), (left wrist, neck), (right wrist, neck),(left hand, left hip), (right hand, right hip), (left hand, torso), (right hand, torso), (left foot, torso), (right foot, torso)
+
+4.4. Determine whether a body part is oriented 'vertical' or 'horizontal'
+4.4.1 You should select the description word from the list: ['vertical', "horizontal'].
+4.4.2 You need to determine as much as possible whether the body limb formed by the following pairs of body parts is 'vertical' or "horizontal':(left hip, left knee), (right hip, right knee), (left knee, left ankle), (right knee, right ankle),(left shoulder, left elbow), (right shoulder, right elbow), (left elbow, left wrist), (right elbow, right wrist),(pelvis, left shoulder),(pelvis, right shoulder),(pelvis, neck)
+
+4.5. Identify whether a body part is in contact with the ground
+4.5.1 You should select the description word from the list: 'on the ground'.
+4.5.2 You should select the body part form the list: [left knee, right knee, left foot, right foot].
+
+Remember that you should focus on describing motion with mostly basic actions.
+5. Cohesion and progression: Ensure continuity between sub-actions to form a complete and fluid motion sequence, making each step naturally lead to the next.
+You should write all the pose description together. The response should follow the format: 
+[{"basic action":[ATOMIC_MOTION_1,ATOMIC_MOTION_2,...],"detailed desciption":[joint1,joint2,...]}\n
+ {"basic action":[ATOMIC_MOTION_1,ATOMIC_MOTION_2,...],"detailed desciption":[joint1,joint2,...]}\n
+ {"basic action":[ATOMIC_MOTION_1,ATOMIC_MOTION_2,...],"detailed desciption":[joint1,joint2,...]}\n, ...
+]
+a possible answer should look like:
+[{"basic action":[jump,run,...],"detailed desciption":[knees:slightly bent,hands:in the air,...]}\n
+ {"basic action":[walk,wave,...],"detailed desciption":[arms:waving back and forth,...]}\n ...
+]
+Please follow the rules above to disassemble the higher-order action:

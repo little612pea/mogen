@@ -1,0 +1,5 @@
+[
+{"basic action":["lift"],"detailed description":["hands: gripping the cup","cup: lifted over head","arms: fully extended","body: upright","legs: straight","feet: firmly planted on the ground"]},
+{"basic action":["hold"],"detailed description":["hands: maintaining grasp on cup","cup: positioned overhead","arms: overhead","body: stable","legs: maintaining position","feet: grounded"]},
+{"basic action":["stretch"],"detailed description":["hands: elevated","cup: held high","arms: reaching upwards","body: lengthened","legs: maintaining stance","feet: stable on the ground"]}
+]

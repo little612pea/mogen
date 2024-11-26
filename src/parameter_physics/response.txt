@@ -1,0 +1,6 @@
+{
+  [4, straight_forward_step_uniform(n_frames=120, indices=[10], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5, step_ratio=0.5)],
+  [5, straight_fb(n_frames=120, indices=[11], scale=0.5, x_offset=0.5, y_offset=0.6, z_offset=0.5)],
+  [13, straight(n_frames=120, indices=[13], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5)],
+  [14, straight(n_frames=120, indices=[14], scale=1.0, x_offset=0.5, y_offset=0.5, z_offset=0.5)]
+}
