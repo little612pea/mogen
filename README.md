@@ -1,3 +1,5 @@
+# MoGen: open-vocab human motion generation
+approaching open-vocabulary human motion generation by decoupling text features in motion-diffusion-model
 # MDM: Human Motion Diffusion Model
 
 
