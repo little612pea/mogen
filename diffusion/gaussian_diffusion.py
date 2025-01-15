@@ -643,38 +643,6 @@ class GaussianDiffusion:
             # encoding once instead of each iteration saves lots of time
             model_kwargs['y']['text_embed'] = model.encode_text(model_kwargs['y']['text'])
 
-        # if 'text' in model_kwargs['y'].keys():
-        #     texts = model_kwargs['y']['text']  # 假设这是一个列表
-
-        #     # 遍历列表中的每个文本进行处理
-        #     for text in texts:
-        #         # 确保每个文本是字符串
-        #         if isinstance(text, str):
-        #             split_texts = text.split('//')
-        #             if len(split_texts) == 2:
-        #                 print(split_texts[0])
-        #                 print(split_texts[1])
-        #                 # 分别对分割后的两个字符串进行 embedding
-        #                 text_embed_a = model.encode_text(split_texts[0])
-        #                 text_embed_b = model.encode_text(split_texts[1])
-        #                 text_embed_a = text_embed_a.view(-1)  # 转换为一维张量，变为 [512]
-        #                 text_embed_b = text_embed_b.view(-1)  # 转换为一维张量，变为 [512]
-        #                 # 对 text_embed_b 进行正交化处理
-        #                 text_embed_b = text_embed_b - torch.dot(text_embed_a, text_embed_b) / torch.dot(text_embed_a,
-        #                                                                                                 text_embed_a) * text_embed_a
-
-        #                 # 将两个嵌入叠加
-        #                 combined_text_embed = text_embed_a + text_embed_b
-        #                 combined_text_embed = combined_text_embed.view(1, -1)
-        #                 # 将结果添加到 list
-        #                 model_kwargs['y']['text_embed'] = combined_text_embed
-        #             else:
-        #                 # 如果没有 "//"，正常处理
-        #                 model_kwargs['y']['text_embed'] = model.encode_text(text)
-        #         else:
-        #             print(f"Warning: Expected string but got {type(text)}. Skipping.")
-
-        
         for i, sample in enumerate(self.p_sample_loop_progressive(
             model,
             shape,

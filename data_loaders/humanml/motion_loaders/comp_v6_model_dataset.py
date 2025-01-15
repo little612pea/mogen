@@ -157,6 +157,7 @@ class CompMDMGeneratedDataset(Dataset):
         )
 
         real_num_batches = len(dataloader)
+        print('dataloader length:',real_num_batches)
         if num_samples_limit is not None:
             real_num_batches = num_samples_limit // dataloader.batch_size + 1
         print('real_num_batches', real_num_batches)
@@ -167,6 +168,7 @@ class CompMDMGeneratedDataset(Dataset):
             mm_idxs = np.random.choice(real_num_batches, mm_num_samples // dataloader.batch_size +1, replace=False)
             mm_idxs = np.sort(mm_idxs)
         else:
+            print("not random sampling")
             mm_idxs = []
         print('mm_idxs', mm_idxs)
 
@@ -175,8 +177,9 @@ class CompMDMGeneratedDataset(Dataset):
 
         with torch.no_grad():
             for i, (motion, model_kwargs) in tqdm(enumerate(dataloader)):
-
+                print(len(generated_motion))
                 if num_samples_limit is not None and len(generated_motion) >= num_samples_limit:
+                    print("exceeding num_samples_limit, finishing")
                     break
 
                 tokens = [t.split('_') for t in model_kwargs['y']['tokens']]
@@ -218,7 +221,8 @@ class CompMDMGeneratedDataset(Dataset):
                             'cap_len': tokens[bs_i].index('eos/OTHER') + 1, 
                             } for bs_i in range(dataloader.batch_size)]
                         generated_motion += sub_dicts
-
+                        for sub_dict in sub_dicts:
+                            print(f"Caption: {sub_dict['caption']}")
                     if is_mm:
                         mm_motions += [{'motion': sample[bs_i].squeeze().permute(1, 0).cpu().numpy(),
                                         'length': model_kwargs['y']['lengths'][bs_i].cpu().numpy(),

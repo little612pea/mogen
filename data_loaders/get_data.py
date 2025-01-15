@@ -54,3 +54,15 @@ def get_dataset_loader(name, batch_size, num_frames, split='train', hml_mode='tr
     )
 
     return loader
+
+def get_dataset_loader_eval(name, batch_size, num_frames, split='train', hml_mode='train'):
+    dataset = get_dataset(name, num_frames, split, hml_mode)
+    print(f"Loading dataset loader [{name}] with split [{split}]")
+    collate = get_collate_fn(name, hml_mode)
+
+    loader = DataLoader(
+        dataset, batch_size=batch_size, shuffle=False,
+        num_workers=8, drop_last=True, collate_fn=collate
+    )
+
+    return loader

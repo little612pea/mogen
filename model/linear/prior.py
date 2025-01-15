@@ -9,7 +9,7 @@ class ResidualBlock(nn.Module):
         self.fc1 = nn.Linear(input_dim, hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, input_dim)
         self.activation = nn.ReLU()
-        self._initialize_weights()
+        # self._initialize_weights()
 
     def forward(self, x):
         residual = x  # 残差连接
@@ -27,7 +27,7 @@ class ResidualBlock(nn.Module):
 
 # 改进的PriorNetwork_linear
 class PriorNetwork_linear(nn.Module):
-    def __init__(self, input_dim=512, hidden_dim=1024, output_dim=512, num_blocks=2):
+    def __init__(self, input_dim=512, hidden_dim=1024, output_dim=512, num_blocks=1):
         super(PriorNetwork_linear, self).__init__()
 
         # 残差分支：分别处理两个输入向量

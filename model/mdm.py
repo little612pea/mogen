@@ -183,7 +183,7 @@ class MDM(nn.Module):
         else: 
             atomic_action_feature, latent_feature = self.mlp_fc(encoded_text)
             encoded_text = self.prior_network(atomic_action_feature, latent_feature)
-        # print(encoded_text.shape)
+        # print(encoded_text.shape) 64,512
         return encoded_text
 
     def forward(self, x, timesteps, y=None):

@@ -43,7 +43,7 @@ def main():
 
     dist_util.setup_dist(args.device)
     print("training in stage ",args.stage)
-    if args.stage == "full-text":
+    if args.stage == "full-text" or args.stage == "warm-up":
         # all-text
         command = f"cd ../HumanML3D && cp ./texts_humanml/* ./texts && cp ./splits/original_splits/* ./"
         subprocess.run(command, shell=True, check=True)
@@ -62,8 +62,8 @@ def main():
     model, diffusion = create_model_and_diffusion(args, data)
     model.to(dist_util.dev())
 
-    if args.stage == "full-text":
-        layers_to_train = ["prior_network","mlp_fc"]
+    if args.stage == "warm-up":
+        layers_to_train = ["prior_network","mlp_fc","seqTransEncoder","embed_text"]
         for name, param in model.named_parameters():
             # 检查参数是否在要训练的层中
             if any(name.startswith(layer) for layer in layers_to_train):
@@ -80,7 +80,14 @@ def main():
     elif args.stage=="wo-physics":
         for name, param in model.named_parameters():
             # 检查参数是否在要训练的层中
-            if 'mlp_fc.latent_feature_branch' in name or 'prior_network' in name:
+            if 'mlp_fc.latent_feature_branch' in name or 'prior_network'or "embed_text" in name:
+                param.requires_grad = True  # 确保 mlp_fc.detail_description_mlp 的参数可训练
+            else:
+                param.requires_grad = False
+    elif args.stage=="full-text":
+        for name, param in model.named_parameters():
+            # 检查参数是否在要训练的层中
+            if 'prior_network' or "seqTransEncoder" or "embed_text" in name:
                 param.requires_grad = True  # 确保 mlp_fc.detail_description_mlp 的参数可训练
             else:
                 param.requires_grad = False

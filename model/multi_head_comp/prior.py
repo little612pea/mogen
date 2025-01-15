@@ -23,7 +23,7 @@ class PriorNetwork_multi_head_comp(nn.Module):
         self.output_layer = nn.Linear(vector_dim, vector_dim)
 
         # Initialize weights
-        self._initialize_weights()
+        # self._initialize_weights()
 
     def _initialize_weights(self):
         # Initialize multihead attention weights for identity mapping

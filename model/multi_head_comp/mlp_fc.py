@@ -9,7 +9,7 @@ class ResidualBlock(nn.Module):
         self.fc1 = nn.Linear(input_dim, hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, input_dim)
         self.activation = nn.ReLU()  # 保持激活函数
-        self._initialize_weights()
+        # self._initialize_weights()
 
     def forward(self, x):
         residual = x  # 残差连接

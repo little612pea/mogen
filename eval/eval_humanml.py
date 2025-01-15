@@ -11,7 +11,7 @@ from utils.model_util import create_model_and_diffusion, load_model_wo_clip
 
 from diffusion import logger
 from utils import dist_util
-from data_loaders.get_data import get_dataset_loader
+from data_loaders.get_data import get_dataset_loader, get_dataset_loader_eval
 from model.cfg_sampler import ClassifierFreeSampleModel
 import subprocess
 torch.multiprocessing.set_sharing_strategy('file_system')
@@ -245,7 +245,7 @@ if __name__ == '__main__':
 
     print(f'Eval mode [{args.eval_mode}]')
     if args.eval_mode == 'debug':
-        num_samples_limit = 1000  # None means no limit (eval over all dataset)
+        num_samples_limit = 1024  # None means no limit (eval over all dataset)
         run_mm = False
         mm_num_samples = 0
         mm_num_repeats = 0
@@ -277,9 +277,9 @@ if __name__ == '__main__':
     logger.configure()
 
     logger.log("creating data loader...")
-    split = 'test'
-    gt_loader = get_dataset_loader(name=args.dataset, batch_size=args.batch_size, num_frames=None, split=split, hml_mode='gt')
-    gen_loader = get_dataset_loader(name=args.dataset, batch_size=args.batch_size, num_frames=None, split=split, hml_mode='eval')
+    split = 'appointed_eval'
+    gt_loader = get_dataset_loader_eval(name=args.dataset, batch_size=args.batch_size, num_frames=None, split=split, hml_mode='gt')
+    gen_loader = get_dataset_loader_eval(name=args.dataset, batch_size=args.batch_size, num_frames=None, split=split, hml_mode='eval')
     num_actions = gen_loader.dataset.num_actions
 
     logger.log("Creating model and diffusion...")

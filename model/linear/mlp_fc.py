@@ -9,7 +9,7 @@ class ResidualBlock(nn.Module):
         self.fc1 = nn.Linear(input_dim, hidden_dim)
         self.fc2 = nn.Linear(hidden_dim, input_dim)
         self.activation = nn.ReLU()  # 保持激活函数
-        self._initialize_weights()
+        # self._initialize_weights()
 
     def forward(self, x):
         residual = x  # 残差连接
@@ -48,11 +48,18 @@ class ExtractFC(nn.Module):
         atomic_action_feature = self.atomic_action_branch(x)
         if not self.disable_latent:
             latent_feature = self.latent_feature_branch(x)
+            # 正交化处理
+            # 1. 计算 atomic_action_feature 的单位向量
+            atomic_norm = F.normalize(atomic_action_feature, dim=-1)
+            # 2. 计算 latent_feature 在 atomic_action_feature 方向上的投影
+            projection = torch.sum(latent_feature * atomic_norm, dim=-1, keepdim=True) * atomic_norm
+            # 3. 计算去除投影后的正交分量
+            latent_feature = latent_feature - projection
         else:
-            latent_feature = torch.zeros_like(x) 
-        # 拼接
-        # combined_feature = torch.cat([atomic_action_feature, latent_feature], dim=-1)
+            latent_feature = torch.zeros_like(x)
+        
         return atomic_action_feature, latent_feature
+
 
 
 if __name__ == "__main__":
@@ -62,20 +69,20 @@ if __name__ == "__main__":
     print("text_embedding: ",text_embedding)
     # 实例化解耦网络
     model = ExtractFC()
-    model.disable_latent= True
+    model.disable_latent= False
     # 前向传播
     atomic_action_feature, latent_feature = model(text_embedding)
     print("atomic_action_feature: ", atomic_action_feature)
     print("latent_feature: ",latent_feature)
-    # def cosine_similarity(a, b):
-    #     # 计算余弦相似度
-    #     a_norm = F.normalize(a, dim=-1)
-    #     b_norm = F.normalize(b, dim=-1)
-    #     return torch.sum(a_norm * b_norm, dim=-1)
+    def cosine_similarity(a, b):
+        # 计算余弦相似度
+        a_norm = F.normalize(a, dim=-1)
+        b_norm = F.normalize(b, dim=-1)
+        return torch.sum(a_norm * b_norm, dim=-1)
 
-    # # 验证相似性
-    # cos_sim = cosine_similarity(text_embedding, combined_feature)
-    # print("Cosine Similarity (mean):", cos_sim.mean().item())
+    # 验证相似性
+    cos_sim = cosine_similarity(atomic_action_feature, latent_feature)
+    print("Cosine Similarity (mean):", cos_sim.mean().item())
     def count_parameters_detailed(model):
         for name, param in model.named_parameters():
             print(f"{name}: {param.numel()} parameters")

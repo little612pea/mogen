@@ -65,7 +65,7 @@ def add_base_options(parser):
     group.add_argument("--arch_decoupling",default='initial_exp',
                        choices=['initial_exp','channel_wise','linear','multi_head_comp','multi_head_single','none'],type=str)
     group.add_argument("--stage", required=True, type=str,
-                    choices=['full-text', 'only-actions', 'wo-physics'],help="stage 0 to 2.")
+                    choices=['warm-up', 'only-actions', 'wo-physics','full-text'],help="stage 0 to 2.")
 
 
 def add_diffusion_options(parser):
