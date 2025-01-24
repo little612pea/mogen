@@ -1,10 +1,10 @@
 #用原始模型测试
 python -m train.train_mdm \
-        --resume_checkpoint save/mdm_finetune_linear_all_texts_01_15_continue_1935/model000550000.pt \
-        --save_dir save/mdm_finetune_linear_all_texts_then_only_actions_then_wo_physics_01_15_continue_2214 \
+        --resume_checkpoint save/01_15_linear/wo_physics_then_all_text/model000585000.pt \
+        --save_dir save/01_15_linear/wo_physics_then_all_text_2 \
         --save_interval 5000 \
         --lr 5e-5 \
-        --stage "wo-physics" \
+        --stage "full-text" \
         --arch_decoupling="linear"
         
         
@@ -45,7 +45,7 @@ python -m eval.eval_humanml \
         --stage="full-text"
 
 python -m eval.eval_humanml \
-        --model_path ./save/01_15_linear/all_text_1/model000530000.pt  \
+        --model_path ./save/01_15_linear/wo_physics_then_all_text/model000580000.pt  \
         --eval_mode debug \
         --arch_decoupling="linear" \
         --stage="full-text"
@@ -56,8 +56,10 @@ python -m sample.generate \
         --arch_decoupling="multi_head_comp" --stage="full-text"
         
 python -m sample.generate \
-        --model_path ./save/01_15_all_text_linear_1/model000530000.pt \
-        --text_prompt "a man faces the camera and stands in place while raising his left arm, then waves his left hand before returning to a standing position."  \
+        --model_path ./save/01_15_linear/all_text_1/model000530000.pt \
+        --text_prompt "the man buries his head in his arms and cry in despair, and finally crouch down on ones knees"  \
         --arch_decoupling="linear" --stage="full-text"
+
+
 
        

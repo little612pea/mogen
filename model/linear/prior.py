@@ -40,7 +40,7 @@ class PriorNetwork_linear(nn.Module):
 
         # 融合层
         self.fusion_layer = nn.Linear(output_dim * 2, output_dim)
-        self._initialize_fusion()
+        # self._initialize_fusion()
 
     def _initialize_fusion(self):
         # 初始化融合层为仅传递 branch1 的输出
