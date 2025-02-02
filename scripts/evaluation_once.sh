@@ -1,5 +1,5 @@
 python -m eval.eval_humanml \
-        --model_path ./save/01_15_linear/wo_physics_then_all_text/model000580000.pt  \
+        --model_path ./save/humanml_trans_enc_512/model000475000.pt  \
         --eval_mode debug \
-        --arch_decoupling="linear" \
+        --arch_decoupling="none" \
         --stage="full-text"
